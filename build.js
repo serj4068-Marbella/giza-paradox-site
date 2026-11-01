@@ -83,7 +83,7 @@ const DINO = `<svg class="dino" viewBox="0 0 240 140" role="img" aria-label="__A
   </g>
 </svg>`;
 
-const PEEK = DINO.replace('class="dino"','class="peek"').replace(/ role="img" aria-label="__ALT__"/,'').replace(/<rect[^>]*>/,'').replace(/<path d="M148 132 H216"\/>/,'');
+const PEEK = fs.readFileSync(path.join(__dirname, 'tools', 'rex.svg.txt'), 'utf8');
 const arrow = '<span class="go" aria-hidden="true">→</span>';
 
 function hero(L) {

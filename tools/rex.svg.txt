@@ -1,0 +1,22 @@
+<svg class="peek" viewBox="0 0 300 230" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+  <defs>
+    <linearGradient id="rx" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4a4130"/><stop offset=".55" stop-color="#2a241a"/><stop offset="1" stop-color="#0f0d09"/></linearGradient>
+    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e6c27a" stop-opacity=".9"/><stop offset="1" stop-color="#e6c27a" stop-opacity=".1"/></linearGradient>
+    <pattern id="sc" width="9" height="8" patternUnits="userSpaceOnUse"><path d="M0 4 Q4.5 0 9 4" fill="none" stroke="#000" stroke-opacity=".28" stroke-width="1"/></pattern>
+  </defs>
+  <g transform="translate(300 0) scale(-1 1)">
+    <path id="head" fill="url(#rx)" d="M18 112 C18 98 32 90 50 86 L94 70 C108 58 134 46 156 50 C172 52 180 60 186 70 C206 80 226 98 244 134 L300 230 L96 230 L108 172 C88 170 66 162 48 152 L28 140 C21 133 18 123 18 112 Z"/>
+    <path fill="url(#sc)" d="M18 112 C18 98 32 90 50 86 L94 70 C108 58 134 46 156 50 C172 52 180 60 186 70 C206 80 226 98 244 134 L300 230 L96 230 L108 172 C88 170 66 162 48 152 L28 140 C21 133 18 123 18 112 Z"/>
+    <path fill="none" stroke="url(#rim)" stroke-width="2.2" stroke-linecap="round" d="M20 106 C22 96 34 90 50 86 L94 70 C108 58 134 46 156 50 C172 52 180 60 186 70 C206 80 224 96 240 128"/>
+    <path fill="#0c0a07" d="M24 124 C58 134 98 138 132 130 L130 138 C96 148 58 144 28 134 Z"/>
+    <g fill="#ece3cc">
+      <path d="M34 128 l3 9 l3 -8z M46 131 l3 11 l3 -10z M60 134 l3 10 l3 -9z M74 136 l3 9 l3 -8z M88 137 l3 8 l3 -7z M102 137 l3 8 l3 -7z M116 135 l3 7 l3 -6z"/>
+    </g>
+    <path fill="#1b160e" d="M92 82 C104 66 128 62 146 70 C136 70 120 72 106 82 C100 86 96 86 92 82 Z"/>
+    <circle cx="122" cy="80" r="6.5" fill="#e0a21c"/>
+    <ellipse cx="122" cy="80" rx="1.9" ry="5.2" fill="#0b0904"/>
+    <circle cx="120.5" cy="77.5" r="1.4" fill="#fff6d6" fill-opacity=".85"/>
+    <ellipse cx="34" cy="98" rx="4" ry="2.4" fill="#0b0904" transform="rotate(-12 34 98)"/>
+    <path fill="none" stroke="#000" stroke-opacity=".4" stroke-width="1.5" d="M150 100 C168 104 180 114 192 130 M158 118 C170 122 180 132 188 146"/>
+  </g>
+</svg>
