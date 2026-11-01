@@ -8,6 +8,7 @@ const LINKS = {
   yt: 'https://www.youtube.com/@Archeotech_ru',
   ig: 'https://www.instagram.com/giza.paradox/',
   fb: 'https://www.facebook.com/groups/2659911541126314',
+  fbp: 'https://www.facebook.com/profile.php?id=61590531682788',
 };
 const COVERS = ['01', '02', '04', '10', '11', '14'];
 
@@ -27,7 +28,7 @@ const T = {
     about: ['Я Сергей. Мне 58, а вайбкодинг я начал в 57. Решил, что динозавры тоже умеют в нейросети, и подружился с ИИ.', 'Теперь мы вместе копаемся в пирамидах, а я проверяю за ними факты. Учусь, не сдаюсь, пока ни разу не обиделся на робота.'],
     dino: 'Рисунок: динозавр с ноутбуком',
     s4: 'Каналы и соцсети',
-    rows: [['Telegram: Проверь сам', 'Канал на русском', TG.ru], ['Telegram: Check It Yourself', 'English channel', TG.en], ['Telegram: Compruébalo tú', 'Canal en español', TG.es], ['YouTube Archeotech', 'Видео', LINKS.yt], ['Instagram giza.paradox', 'Карусели и ролики', LINKS.ig], ['Группа на Facebook', 'Обсуждения', LINKS.fb]],
+    rows: [['Telegram: Проверь сам', 'Канал на русском', TG.ru], ['Telegram: Check It Yourself', 'English channel', TG.en], ['Telegram: Compruébalo tú', 'Canal en español', TG.es], ['YouTube Archeotech', 'Видео', LINKS.yt], ['Instagram giza.paradox', 'Карусели и ролики', LINKS.ig], ['Страница Facebook', 'Новости и карусели', LINKS.fbp], ['Группа на Facebook', 'Обсуждения', LINKS.fb]],
     foot: 'Giza Paradox · Сергей', open: 'Открывается в новой вкладке',
   },
   en: {
@@ -45,7 +46,7 @@ const T = {
     about: ["I'm Sergey. I'm 58 and started vibe coding at 57. I decided that dinosaurs can do AI too, and made friends with the AIs.", "Now we dig into pyramids together, and I fact-check what they say. I keep learning and I don't give up. So far I haven't taken offence at a robot once."],
     dino: 'Drawing: a dinosaur with a laptop',
     s4: 'Channels & socials',
-    rows: [['Telegram: Check It Yourself', 'English channel', TG.en], ['Telegram: Проверь сам', 'Канал на русском', TG.ru], ['Telegram: Compruébalo tú', 'Canal en español', TG.es], ['YouTube Archeotech', 'Videos', LINKS.yt], ['Instagram giza.paradox', 'Carousels & reels', LINKS.ig], ['Facebook group', 'Discussions', LINKS.fb]],
+    rows: [['Telegram: Check It Yourself', 'English channel', TG.en], ['Telegram: Проверь сам', 'Канал на русском', TG.ru], ['Telegram: Compruébalo tú', 'Canal en español', TG.es], ['YouTube Archeotech', 'Videos', LINKS.yt], ['Instagram giza.paradox', 'Carousels & reels', LINKS.ig], ['Facebook page', 'News & carousels', LINKS.fbp], ['Facebook group', 'Discussions', LINKS.fb]],
     foot: 'Giza Paradox · Sergey', open: 'Opens in a new tab',
   },
   es: {
@@ -63,7 +64,7 @@ const T = {
     about: ['Soy Sergey. Tengo 58 años y empecé con el vibe coding a los 57. Decidí que los dinosaurios también pueden usar IA y me hice amigo de las IA.', 'Ahora exploramos juntos las pirámides y yo verifico sus datos. Sigo aprendiendo y no me rindo. Hasta ahora no me he ofendido con ningún robot.'],
     dino: 'Dibujo: un dinosaurio con portátil',
     s4: 'Canales y redes',
-    rows: [['Telegram: Compruébalo tú', 'Canal en español', TG.es], ['Telegram: Check It Yourself', 'English channel', TG.en], ['Telegram: Проверь сам', 'Канал на русском', TG.ru], ['YouTube Archeotech', 'Vídeos', LINKS.yt], ['Instagram giza.paradox', 'Carruseles y reels', LINKS.ig], ['Grupo de Facebook', 'Conversación', LINKS.fb]],
+    rows: [['Telegram: Compruébalo tú', 'Canal en español', TG.es], ['Telegram: Check It Yourself', 'English channel', TG.en], ['Telegram: Проверь сам', 'Канал на русском', TG.ru], ['YouTube Archeotech', 'Vídeos', LINKS.yt], ['Instagram giza.paradox', 'Carruseles y reels', LINKS.ig], ['Página de Facebook', 'Novedades y carruseles', LINKS.fbp], ['Grupo de Facebook', 'Conversación', LINKS.fb]],
     foot: 'Giza Paradox · Sergey', open: 'Se abre en una pestaña nueva',
   },
 };
