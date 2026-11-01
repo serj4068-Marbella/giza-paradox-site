@@ -1,0 +1,117 @@
+{
+ "slug": "katakomby-parizha",
+ "id": "03-katakomby-parizha",
+ "idx": 2,
+ "slides": 6,
+ "ru": {
+  "title": "Катакомбы Парижа",
+  "lead": "Откуда они там и что на самом деле известно.",
+  "hook": "Под Парижем миллионы останков",
+  "steps": [
+   {
+    "tag": "история",
+    "title": "Откуда они там",
+    "text": "В конце XVIII века кладбища в центре города были переполнены. Останки перенесли в старые каменоломни под городом."
+   },
+   {
+    "tag": "цифры",
+    "title": "Сколько точно",
+    "text": "Чаще всего называют около 6 миллионов человек. Это оценка: точный подсчёт никто не делал."
+   },
+   {
+    "tag": "масштаб",
+    "title": "Не только кости",
+    "text": "Каменоломни тянутся на сотни километров. Для посетителей открыта небольшая часть, около полутора километров."
+   },
+   {
+    "tag": "вывод",
+    "title": "Это не тайна",
+    "text": "Это задокументированная история города: музей, архивы, годы работ. Тайна здесь в масштабе, а не в том, что это скрывали."
+   },
+   {
+    "tag": "проверка",
+    "title": "Проверь сам",
+    "text": "Откройте официальный сайт музея катакомб и сравните цифры. Где число отличается от того, что в роликах, там оценка или маркетинг."
+   }
+  ],
+  "article": [
+   "Под Парижем лежат миллионы останков. Откуда они там, сколько их на самом деле и почему это не секрет.",
+   "Цифры в карусели оценочные, проверяйте их по официальным источникам."
+  ],
+  "credit": "Nadar, Samsonsol, Janericloebe, KoS, Joe deSousa"
+ },
+ "en": {
+  "title": "Catacombs of Paris",
+  "lead": "Where they came from and what is actually known.",
+  "hook": "Under Paris lie millions of remains",
+  "steps": [
+   {
+    "tag": "history",
+    "title": "How they got there",
+    "text": "In the late 18th century the cemeteries in the city centre were overflowing. The remains were moved into old quarries under the city."
+   },
+   {
+    "tag": "numbers",
+    "title": "How many, exactly",
+    "text": "The most common figure is about 6 million people. It is an estimate: nobody has made an exact count."
+   },
+   {
+    "tag": "scale",
+    "title": "Not only bones",
+    "text": "The quarries stretch for hundreds of kilometres. Only a small part is open to visitors, about a kilometre and a half."
+   },
+   {
+    "tag": "conclusion",
+    "title": "It is not a secret",
+    "text": "It is the documented history of the city: a museum, archives, years of work. The mystery here is the scale, not any concealment."
+   },
+   {
+    "tag": "check",
+    "title": "Check yourself",
+    "text": "Open the official catacombs museum website and compare the numbers. Where a figure differs from what videos claim, it is an estimate or marketing."
+   }
+  ],
+  "article": [
+   "Millions of remains lie under Paris. Where they came from, how many there really are, and why it is not a secret.",
+   "The figures in the carousel are estimates, so check them against official sources."
+  ],
+  "credit": "Nadar, Samsonsol, Janericloebe, KoS, Joe deSousa"
+ },
+ "es": {
+  "title": "Las catacumbas de París",
+  "lead": "De dónde salieron y qué se sabe en realidad.",
+  "hook": "Bajo París hay millones de restos",
+  "steps": [
+   {
+    "tag": "historia",
+    "title": "Cómo llegaron allí",
+    "text": "A finales del siglo XVIII los cementerios del centro de la ciudad estaban desbordados. Los restos se trasladaron a antiguas canteras bajo la ciudad."
+   },
+   {
+    "tag": "cifras",
+    "title": "Cuántos exactamente",
+    "text": "La cifra más repetida es de unos 6 millones de personas. Es una estimación: nadie ha hecho un recuento exacto."
+   },
+   {
+    "tag": "escala",
+    "title": "No solo huesos",
+    "text": "Las canteras se extienden cientos de kilómetros. Para los visitantes está abierta una pequeña parte, de alrededor de un kilómetro y medio."
+   },
+   {
+    "tag": "conclusión",
+    "title": "No es un secreto",
+    "text": "Es historia documentada de la ciudad: museo, archivos, años de trabajo. El misterio está en la escala, no en que se ocultara."
+   },
+   {
+    "tag": "comprobación",
+    "title": "Compruébalo tú mismo",
+    "text": "Abre la web oficial del museo de las catacumbas y compara las cifras. Donde un número difiera de lo que dicen los vídeos, hay una estimación o marketing."
+   }
+  ],
+  "article": [
+   "Bajo París yacen millones de restos. De dónde salieron, cuántos hay en realidad y por qué no es un secreto.",
+   "Las cifras del carrusel son estimaciones: compruébalas en fuentes oficiales."
+  ],
+  "credit": "Nadar, Samsonsol, Janericloebe, KoS, Joe deSousa"
+ }
+}

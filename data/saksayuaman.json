@@ -1,0 +1,117 @@
+{
+ "slug": "saksayuaman",
+ "id": "14-saksayuaman",
+ "idx": 13,
+ "slides": 6,
+ "ru": {
+  "title": "Саксайуаман",
+  "lead": "Что известно о стенах инков.",
+  "hook": "Камни Саксайуамана без раствора",
+  "steps": [
+   {
+    "tag": "где",
+    "title": "Что это",
+    "text": "Саксайуаман — крепость над городом Куско в Перу. Стены сложены из огромных каменных блоков."
+   },
+   {
+    "tag": "как сложено",
+    "title": "Как подогнано",
+    "text": "Блоки подогнаны так плотно, что между ними трудно просунуть лезвие. Раствора нет."
+   },
+   {
+    "tag": "размер",
+    "title": "Какого размера",
+    "text": "Самые большие блоки весят десятки тонн, по некоторым оценкам больше ста. Точные цифры нужно сверять с исследованиями."
+   },
+   {
+    "tag": "кто строил",
+    "title": "Кто строил",
+    "text": "Стены связывают с империей инков XV века. Они знали приёмы подгонки камня и использовали труд тысяч людей."
+   },
+   {
+    "tag": "неизвестное",
+    "title": "Что остаётся спорным",
+    "text": "Как именно резали и двигали такие блоки, уточняют до сих пор. Инки не оставили письменных инструкций."
+   }
+  ],
+  "article": [
+   "Стены Саксайуамана сложены без раствора, а швы почти не видны. Что известно, а что остаётся спорным.",
+   "Как бы вы такое сложили?"
+  ],
+  "credit": "Bcasterline at English Wikipedia, Esoltas, Mx._Granger, общественное достояние, Keystone View Company, Wasif Malik"
+ },
+ "en": {
+  "title": "Sacsayhuamán",
+  "lead": "What is known about the Inca walls.",
+  "hook": "The stones of Sacsayhuamán without mortar",
+  "steps": [
+   {
+    "tag": "where",
+    "title": "What it is",
+    "text": "Sacsayhuamán is a fortress above the city of Cusco in Peru. Its walls are built from huge stone blocks."
+   },
+   {
+    "tag": "construction",
+    "title": "How they are fitted",
+    "text": "The blocks fit so tightly that it is hard to slide a blade between them. There is no mortar."
+   },
+   {
+    "tag": "size",
+    "title": "How big",
+    "text": "The largest blocks weigh tens of tonnes, and by some estimates more than a hundred. Exact figures should be checked against research."
+   },
+   {
+    "tag": "builders",
+    "title": "Who built it",
+    "text": "The walls are linked to the Inca empire of the 15th century. They knew stone-fitting techniques and used the labour of thousands."
+   },
+   {
+    "tag": "unknown",
+    "title": "What remains disputed",
+    "text": "How exactly such blocks were cut and moved is still being studied. The Incas left no written instructions."
+   }
+  ],
+  "article": [
+   "The walls of Sacsayhuamán are laid without mortar, and the joints are almost invisible. What is known and what remains disputed.",
+   "How would you build something like that?"
+  ],
+  "credit": "Bcasterline at English Wikipedia, Esoltas, Mx._Granger, public domain, Keystone View Company, Wasif Malik"
+ },
+ "es": {
+  "title": "Sacsayhuamán",
+  "lead": "Qué se sabe de los muros incas.",
+  "hook": "Las piedras de Sacsayhuamán sin mortero",
+  "steps": [
+   {
+    "tag": "dónde",
+    "title": "Qué es",
+    "text": "Sacsayhuamán es una fortaleza sobre la ciudad de Cusco, en Perú. Sus muros están hechos de enormes bloques de piedra."
+   },
+   {
+    "tag": "cómo se ensamblan",
+    "title": "Cómo encajan",
+    "text": "Los bloques encajan tan bien que cuesta meter una cuchilla entre ellos. No hay mortero."
+   },
+   {
+    "tag": "tamaño",
+    "title": "De qué tamaño",
+    "text": "Los bloques mayores pesan decenas de toneladas y, según algunas estimaciones, más de cien. Las cifras exactas hay que contrastarlas con los estudios."
+   },
+   {
+    "tag": "constructores",
+    "title": "Quién lo construyó",
+    "text": "Los muros se asocian al imperio inca del siglo XV. Conocían técnicas de ajuste de la piedra y empleaban el trabajo de miles de personas."
+   },
+   {
+    "tag": "lo desconocido",
+    "title": "Qué sigue en discusión",
+    "text": "Cómo cortaron y movieron exactamente esos bloques se sigue estudiando. Los incas no dejaron instrucciones escritas."
+   }
+  ],
+  "article": [
+   "Los muros de Sacsayhuamán se levantaron sin mortero y las juntas casi no se ven. Qué se sabe y qué sigue en discusión.",
+   "¿Cómo construirías algo así?"
+  ],
+  "credit": "Bcasterline at English Wikipedia, Esoltas, Mx._Granger, dominio público, Keystone View Company, Wasif Malik"
+ }
+}

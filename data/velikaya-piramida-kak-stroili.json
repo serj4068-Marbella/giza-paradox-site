@@ -1,0 +1,117 @@
+{
+ "slug": "velikaya-piramida-kak-stroili",
+ "id": "02-velikaya-piramida-kak-stroili",
+ "idx": 1,
+ "slides": 6,
+ "ru": {
+  "title": "Как построили Великую пирамиду",
+  "lead": "4 версии. И что в каждой не сходится.",
+  "hook": "Как построили Великую пирамиду?",
+  "steps": [
+   {
+    "tag": "факт",
+    "title": "Что известно точно",
+    "text": "Пирамида Хеопса в Гизе построена около 2560 года до н. э. Исходная высота около 146 метров. С датой и размерами никто не спорит."
+   },
+   {
+    "tag": "версия 1",
+    "title": "Прямая рампа",
+    "text": "Камни тащили по наклонной насыпи. Минус: чтобы подняться на такую высоту с рабочим уклоном, насыпь должна быть огромной, сопоставимой с самой пирамидой."
+   },
+   {
+    "tag": "версия 2",
+    "title": "Насыпь по спирали",
+    "text": "Рампа обвивает пирамиду снаружи. Минус: она закрывала бы грани и углы, по которым строители сверяли форму."
+   },
+   {
+    "tag": "версия 3",
+    "title": "Рампа внутри",
+    "text": "Архитектор Жан-Пьер Уден предложил пандус внутри пирамиды. Минус: прямых следов такого тоннеля пока не найдено."
+   },
+   {
+    "tag": "версия 4",
+    "title": "Вода и рычаги",
+    "text": "Камни везли по Нилу и каналам, поднимали рычагами. Папирусы Мерера подтверждают речные перевозки, но подъём на высоту они не объясняют."
+   }
+  ],
+  "article": [
+   "Как строили Великую пирамиду? Разобрал 4 версии и то, что в каждой не сходится.",
+   "Что точно известно: дата, размеры, речные перевозки. Что спорно: как камни попадали наверх."
+  ],
+  "credit": "Eduard Spelterini, Gary Todd, Matson Collection, Matthäus Wander"
+ },
+ "en": {
+  "title": "How the Great Pyramid was built",
+  "lead": "4 theories. And what doesn't add up in each.",
+  "hook": "How was the Great Pyramid built?",
+  "steps": [
+   {
+    "tag": "fact",
+    "title": "What is known for sure",
+    "text": "The Pyramid of Khufu at Giza was built around 2560 BC. Its original height was about 146 metres. Nobody disputes the date or the size."
+   },
+   {
+    "tag": "theory 1",
+    "title": "A straight ramp",
+    "text": "Stones were hauled up an inclined embankment. The catch: to reach that height at a workable slope, the ramp would have to be huge, comparable to the pyramid itself."
+   },
+   {
+    "tag": "theory 2",
+    "title": "A spiral ramp",
+    "text": "The ramp winds around the pyramid on the outside. The catch: it would cover the faces and corners builders used to check the shape."
+   },
+   {
+    "tag": "theory 3",
+    "title": "A ramp inside",
+    "text": "Architect Jean-Pierre Houdin proposed a ramp inside the pyramid. The catch: no direct trace of such a tunnel has been found yet."
+   },
+   {
+    "tag": "theory 4",
+    "title": "Water and levers",
+    "text": "Stones were shipped along the Nile and canals and lifted with levers. Merer's papyri confirm river transport, but they don't explain the lift to height."
+   }
+  ],
+  "article": [
+   "How was the Great Pyramid built? I went through 4 theories and what doesn't add up in each.",
+   "What is certain: the date, the size, river transport. What is disputed: how the stones got to the top."
+  ],
+  "credit": "Eduard Spelterini, Gary Todd, Matson Collection, Matthäus Wander"
+ },
+ "es": {
+  "title": "Cómo se construyó la Gran Pirámide",
+  "lead": "4 teorías. Y lo que no cuadra en cada una.",
+  "hook": "¿Cómo se construyó la Gran Pirámide?",
+  "steps": [
+   {
+    "tag": "hecho",
+    "title": "Lo que se sabe con certeza",
+    "text": "La pirámide de Keops, en Guiza, se construyó hacia el 2560 a. C. Su altura original era de unos 146 metros. Nadie discute la fecha ni las dimensiones."
+   },
+   {
+    "tag": "teoría 1",
+    "title": "Rampa recta",
+    "text": "Las piedras se arrastraban por un terraplén inclinado. El problema: para llegar a esa altura con una pendiente viable, la rampa tendría que ser enorme, comparable a la propia pirámide."
+   },
+   {
+    "tag": "teoría 2",
+    "title": "Rampa en espiral",
+    "text": "La rampa rodea la pirámide por fuera. El problema: taparía las caras y las esquinas con las que los constructores comprobaban la forma."
+   },
+   {
+    "tag": "teoría 3",
+    "title": "Rampa interior",
+    "text": "El arquitecto Jean-Pierre Houdin propuso una rampa dentro de la pirámide. El problema: aún no se ha hallado ningún rastro directo de ese túnel."
+   },
+   {
+    "tag": "teoría 4",
+    "title": "Agua y palancas",
+    "text": "Las piedras viajaban por el Nilo y los canales y se subían con palancas. Los papiros de Merer confirman el transporte fluvial, pero no explican la subida en altura."
+   }
+  ],
+  "article": [
+   "¿Cómo se construyó la Gran Pirámide? Repasé 4 teorías y lo que no cuadra en cada una.",
+   "Lo seguro: la fecha, las dimensiones, el transporte por el río. Lo discutido: cómo llegaron las piedras hasta arriba."
+  ],
+  "credit": "Eduard Spelterini, Gary Todd, Matson Collection, Matthäus Wander"
+ }
+}

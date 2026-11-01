@@ -1,0 +1,117 @@
+{
+ "slug": "velikaya-piramida-skanpiramids",
+ "id": "08-velikaya-piramida-skanpiramids",
+ "idx": 7,
+ "slides": 6,
+ "ru": {
+  "title": "Пустота в Великой пирамиде",
+  "lead": "Что это значит и чего мы не знаем.",
+  "hook": "В Великой пирамиде нашли пустоту",
+  "steps": [
+   {
+    "tag": "метод",
+    "title": "Чем просветили",
+    "text": "Проект ScanPyramids просвечивает пирамиды космическими частицами (мюонами). Работает без раскопок."
+   },
+   {
+    "tag": "находка",
+    "title": "Что нашли",
+    "text": "В 2017 году команда сообщила о большой пустоте над Большой галереей. Длина не менее 30 метров."
+   },
+   {
+    "tag": "осторожно",
+    "title": "Это не зал фараона",
+    "text": "Известно только, что пустота есть. Что в ней, никто не знает: туда не заходили."
+   },
+   {
+    "tag": "дальше",
+    "title": "Что было потом",
+    "text": "В 2023 году обнаружили ещё один коридор у северной грани и осмотрели его эндоскопом."
+   },
+   {
+    "tag": "факт и версия",
+    "title": "Где граница",
+    "text": "Факт: пустота есть. Версия: что в ней. Кто говорит «там зал» без измерений, придумывает."
+   }
+  ],
+  "article": [
+   "В Великой пирамиде нашли пустоту. Рассказываю, что это значит и где факт заканчивается и начинается версия.",
+   "Что, по-твоему, внутри?"
+  ],
+  "credit": "John and Morton Edgar, Gary Todd, общественное достояние, Warren LeMay"
+ },
+ "en": {
+  "title": "The void in the Great Pyramid",
+  "lead": "What it means and what we don't know.",
+  "hook": "A void found in the Great Pyramid",
+  "steps": [
+   {
+    "tag": "method",
+    "title": "What they scanned with",
+    "text": "The ScanPyramids project scans pyramids with cosmic particles (muons). It works without excavation."
+   },
+   {
+    "tag": "discovery",
+    "title": "What was found",
+    "text": "In 2017 the team reported a large void above the Grand Gallery. At least 30 metres long."
+   },
+   {
+    "tag": "careful",
+    "title": "It is not the pharaoh's chamber",
+    "text": "All we know is that the void exists. What is in it, nobody knows: no one has been inside."
+   },
+   {
+    "tag": "next",
+    "title": "What came next",
+    "text": "In 2023 another corridor was found by the north face and inspected with an endoscope."
+   },
+   {
+    "tag": "fact and theory",
+    "title": "Where is the line",
+    "text": "Fact: the void exists. Theory: what is in it. Anyone who says “there is a chamber” without measurements is making it up."
+   }
+  ],
+  "article": [
+   "A void has been found in the Great Pyramid. I explain what it means and where fact ends and theory begins.",
+   "What do you think is inside?"
+  ],
+  "credit": "John and Morton Edgar, Gary Todd, public domain, Warren LeMay"
+ },
+ "es": {
+  "title": "El vacío en la Gran Pirámide",
+  "lead": "Qué significa y qué no sabemos.",
+  "hook": "Hallaron un vacío en la Gran Pirámide",
+  "steps": [
+   {
+    "tag": "método",
+    "title": "Con qué la escanearon",
+    "text": "El proyecto ScanPyramids escanea las pirámides con partículas cósmicas (muones). Funciona sin excavar."
+   },
+   {
+    "tag": "hallazgo",
+    "title": "Qué encontraron",
+    "text": "En 2017 el equipo informó de un gran vacío sobre la Gran Galería. De al menos 30 metros de largo."
+   },
+   {
+    "tag": "ojo",
+    "title": "No es la sala del faraón",
+    "text": "Solo se sabe que el vacío existe. Qué hay dentro, nadie lo sabe: nadie ha entrado."
+   },
+   {
+    "tag": "después",
+    "title": "Qué vino después",
+    "text": "En 2023 se detectó otro corredor junto a la cara norte y se inspeccionó con un endoscopio."
+   },
+   {
+    "tag": "hecho y teoría",
+    "title": "Dónde está el límite",
+    "text": "Hecho: el vacío existe. Teoría: qué hay dentro. Quien dice «hay una sala» sin mediciones, se lo inventa."
+   }
+  ],
+  "article": [
+   "Se ha encontrado un vacío en la Gran Pirámide. Te cuento qué significa y dónde termina el hecho y empieza la teoría.",
+   "¿Qué crees que hay dentro?"
+  ],
+  "credit": "John and Morton Edgar, Gary Todd, dominio público, Warren LeMay"
+ }
+}

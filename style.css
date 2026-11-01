@@ -61,7 +61,7 @@ h2 i{font-style:normal;font-size:.4em;letter-spacing:.2em;color:var(--gold);font
 h3{margin:12px 0 8px;font:600 26px/1.1 var(--head);text-transform:uppercase}
 .how p{margin:0;color:var(--muted)}
 
-.thumbs{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(6,1fr);gap:12px}
+.thumbs{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(7,1fr);gap:12px}
 .thumbs a{display:block;text-decoration:none;border:1px solid var(--line);background:var(--bg2);transition:border-color .2s,transform .2s}
 .thumbs a:hover{border-color:var(--gold);transform:translateY(-4px)}
 .thumbs img{width:100%;aspect-ratio:4/5;object-fit:cover}
@@ -83,7 +83,7 @@ h3{margin:12px 0 8px;font:600 26px/1.1 var(--head);text-transform:uppercase}
 
 @media (max-width:900px){
   .lens{top:64px;width:24vw}
-  .thumbs{grid-template-columns:repeat(3,1fr)}
+  .thumbs{grid-template-columns:repeat(4,1fr)}
   .about{grid-template-columns:1fr}
   .dino{max-width:260px}
 }

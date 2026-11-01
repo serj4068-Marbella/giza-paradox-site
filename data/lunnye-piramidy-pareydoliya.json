@@ -1,0 +1,117 @@
+{
+ "slug": "lunnye-piramidy-pareydoliya",
+ "id": "05-lunnye-piramidy-pareydoliya",
+ "idx": 4,
+ "slides": 6,
+ "ru": {
+  "title": "Пирамиды на Луне",
+  "lead": "Как отличить рельеф от постройки.",
+  "hook": "Пирамиды на Луне: видим то, что хотим?",
+  "steps": [
+   {
+    "tag": "откуда слухи",
+    "title": "Откуда «пирамиды»",
+    "text": "На снимках Луны встречаются острые тени и скалы, похожие на пирамиды. Их показывают в роликах как «базы»."
+   },
+   {
+    "tag": "психология",
+    "title": "Мозг ищет знакомое",
+    "text": "Парейдолия: мы видим лица, здания и пирамиды там, где их нет. Это свойство восприятия, а не доказательство."
+   },
+   {
+    "tag": "свет",
+    "title": "Роль света",
+    "text": "Низкое Солнце вытягивает тени и делает обычный холм «геометричным». При другом освещении форма меняется."
+   },
+   {
+    "tag": "масштаб",
+    "title": "Мелкий снимок",
+    "text": "На плохом снимке в один пиксель попадают десятки метров. Отличить скалу от постройки по такому кадру нельзя."
+   },
+   {
+    "tag": "проверка",
+    "title": "Как проверить",
+    "text": "Найди то же место на снимках орбитального аппарата LRO при другом свете и в лучшем разрешении. Если «пирамида» исчезла, это был рельеф."
+   }
+  ],
+  "article": [
+   "Пирамиды на Луне. Или игра света и работа мозга? Разобрал, как отличить рельеф от постройки на снимке.",
+   "В следующей карусели покажу, как найти такое место на открытых снимках NASA."
+  ],
+  "credit": "NASA, NASA Johnson, NASA Johnson Space Center, Neil A. Armstrong, NASA/Bill Anders"
+ },
+ "en": {
+  "title": "Pyramids on the Moon",
+  "lead": "How to tell terrain from a structure.",
+  "hook": "Pyramids on the Moon: do we see what we want?",
+  "steps": [
+   {
+    "tag": "where rumours come from",
+    "title": "Where the “pyramids” come from",
+    "text": "Moon images contain sharp shadows and rocks that look like pyramids. Videos present them as “bases”."
+   },
+   {
+    "tag": "psychology",
+    "title": "The brain looks for the familiar",
+    "text": "Pareidolia: we see faces, buildings and pyramids where there are none. It is a quirk of perception, not evidence."
+   },
+   {
+    "tag": "light",
+    "title": "The role of light",
+    "text": "A low Sun stretches shadows and makes an ordinary hill look “geometric”. Under different lighting the shape changes."
+   },
+   {
+    "tag": "scale",
+    "title": "A low-res image",
+    "text": "In a poor image one pixel covers tens of metres. You cannot tell a rock from a structure in such a frame."
+   },
+   {
+    "tag": "check",
+    "title": "How to check",
+    "text": "Find the same spot in images from the Lunar Reconnaissance Orbiter under different light and at better resolution. If the “pyramid” disappears, it was terrain."
+   }
+  ],
+  "article": [
+   "Pyramids on the Moon. Or a trick of light and the brain? I looked at how to tell terrain from a structure in an image.",
+   "In the next carousel I will show how to find such a place in open NASA images."
+  ],
+  "credit": "NASA, NASA Johnson, NASA Johnson Space Center, Neil A. Armstrong, NASA/Bill Anders"
+ },
+ "es": {
+  "title": "Pirámides en la Luna",
+  "lead": "Cómo distinguir un relieve de una construcción.",
+  "hook": "Pirámides en la Luna: ¿vemos lo que queremos?",
+  "steps": [
+   {
+    "tag": "de dónde vienen los rumores",
+    "title": "De dónde salen las «pirámides»",
+    "text": "En las imágenes de la Luna hay sombras afiladas y rocas que parecen pirámides. Los vídeos las presentan como «bases»."
+   },
+   {
+    "tag": "psicología",
+    "title": "El cerebro busca lo familiar",
+    "text": "Pareidolia: vemos caras, edificios y pirámides donde no los hay. Es una propiedad de la percepción, no una prueba."
+   },
+   {
+    "tag": "luz",
+    "title": "El papel de la luz",
+    "text": "Un Sol bajo alarga las sombras y hace «geométrica» una colina normal. Con otra iluminación la forma cambia."
+   },
+   {
+    "tag": "escala",
+    "title": "Una imagen pequeña",
+    "text": "En una imagen mala, un píxel abarca decenas de metros. Con un fotograma así no se distingue una roca de una construcción."
+   },
+   {
+    "tag": "comprobación",
+    "title": "Cómo comprobarlo",
+    "text": "Busca el mismo lugar en las imágenes de la sonda LRO con otra luz y mejor resolución. Si la «pirámide» desaparece, era relieve."
+   }
+  ],
+  "article": [
+   "Pirámides en la Luna. ¿O un juego de luz y del cerebro? Repasé cómo distinguir el relieve de una construcción en una imagen.",
+   "En el próximo carrusel mostraré cómo encontrar un lugar así en imágenes abiertas de la NASA."
+  ],
+  "credit": "NASA, NASA Johnson, NASA Johnson Space Center, Neil A. Armstrong, NASA/Bill Anders"
+ }
+}

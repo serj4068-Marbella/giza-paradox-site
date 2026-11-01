@@ -1,0 +1,117 @@
+{
+ "slug": "proverka-snimkov-luny",
+ "id": "13-proverka-snimkov-luny",
+ "idx": 12,
+ "slides": 6,
+ "ru": {
+  "title": "Как проверить снимок Луны",
+  "lead": "Открытая карта NASA и 4 шага.",
+  "hook": "Как проверить снимок Луны самому",
+  "steps": [
+   {
+    "tag": "откуда снимки",
+    "title": "Откуда берутся",
+    "text": "Орбитальный аппарат NASA Lunar Reconnaissance Orbiter с 2009 года снимает поверхность Луны. Данные открыты каждому."
+   },
+   {
+    "tag": "шаг 1",
+    "title": "Открой карту",
+    "text": "Сервис LROC QuickMap показывает снимки по координатам. Не нужен ни аккаунт, ни специальные знания."
+   },
+   {
+    "tag": "шаг 2",
+    "title": "Найди место",
+    "text": "Введи координаты из видео. Если координат нет, это уже повод насторожиться: проверять нечего."
+   },
+   {
+    "tag": "шаг 3",
+    "title": "Оцени масштаб",
+    "text": "Посмотри, сколько метров в одном пикселе. Объект в десятки метров на мелком снимке часто оказывается тенью или рельефом."
+   },
+   {
+    "tag": "шаг 4",
+    "title": "Сравни освещение",
+    "text": "Тот же объект при другом положении Солнца выглядит иначе. Сравни снимки с разными тенями."
+   }
+  ],
+  "article": [
+   "Любой снимок Луны можно проверить самому, используя открытые данные NASA. 4 шага в карусели.",
+   "Нашли странное место? Пишите координаты, разберём вместе."
+  ],
+  "credit": "общественное достояние, NASA Johnson Space Center, NASA Apollo, NASA, NASA / Apollo 11"
+ },
+ "en": {
+  "title": "How to check a Moon image",
+  "lead": "NASA's open map and 4 steps.",
+  "hook": "How to check a Moon image yourself",
+  "steps": [
+   {
+    "tag": "where images come from",
+    "title": "Where they come from",
+    "text": "NASA's Lunar Reconnaissance Orbiter has been imaging the Moon's surface since 2009. The data is open to everyone."
+   },
+   {
+    "tag": "step 1",
+    "title": "Open the map",
+    "text": "The LROC QuickMap service shows images by coordinates. No account and no special knowledge needed."
+   },
+   {
+    "tag": "step 2",
+    "title": "Find the place",
+    "text": "Enter the coordinates from the video. If there are no coordinates, that is already a warning sign: there is nothing to check."
+   },
+   {
+    "tag": "step 3",
+    "title": "Judge the scale",
+    "text": "See how many metres one pixel covers. An object tens of metres across in a low-res image is often just a shadow or terrain."
+   },
+   {
+    "tag": "step 4",
+    "title": "Compare the lighting",
+    "text": "The same object looks different with the Sun in another position. Compare images with different shadows."
+   }
+  ],
+  "article": [
+   "Any Moon image can be checked yourself using NASA's open data. 4 steps in the carousel.",
+   "Found a strange place? Send the coordinates and we'll look together."
+  ],
+  "credit": "public domain, NASA Johnson Space Center, NASA Apollo, NASA, NASA / Apollo 11"
+ },
+ "es": {
+  "title": "Cómo comprobar una imagen de la Luna",
+  "lead": "El mapa abierto de la NASA y 4 pasos.",
+  "hook": "Cómo comprobar una imagen de la Luna tú mismo",
+  "steps": [
+   {
+    "tag": "de dónde salen las imágenes",
+    "title": "De dónde vienen",
+    "text": "La sonda Lunar Reconnaissance Orbiter de la NASA fotografía la superficie lunar desde 2009. Los datos son abiertos para todos."
+   },
+   {
+    "tag": "paso 1",
+    "title": "Abre el mapa",
+    "text": "El servicio LROC QuickMap muestra imágenes por coordenadas. No hace falta cuenta ni conocimientos especiales."
+   },
+   {
+    "tag": "paso 2",
+    "title": "Encuentra el lugar",
+    "text": "Escribe las coordenadas del vídeo. Si no hay coordenadas, ya es una señal de alerta: no hay nada que comprobar."
+   },
+   {
+    "tag": "paso 3",
+    "title": "Valora la escala",
+    "text": "Mira cuántos metros caben en un píxel. Un objeto de decenas de metros en una imagen pequeña suele ser una sombra o un relieve."
+   },
+   {
+    "tag": "paso 4",
+    "title": "Compara la iluminación",
+    "text": "El mismo objeto se ve distinto con el Sol en otra posición. Compara imágenes con sombras diferentes."
+   }
+  ],
+  "article": [
+   "Cualquier imagen de la Luna se puede comprobar uno mismo con los datos abiertos de la NASA. 4 pasos en el carrusel.",
+   "¿Encontraste un lugar extraño? Escribe las coordenadas y lo analizamos juntos."
+  ],
+  "credit": "dominio público, NASA Johnson Space Center, NASA Apollo, NASA, NASA / Apollo 11"
+ }
+}

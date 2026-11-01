@@ -1,0 +1,117 @@
+{
+ "slug": "gobekli-tepe",
+ "id": "10-gobekli-tepe",
+ "idx": 9,
+ "slides": 6,
+ "ru": {
+  "title": "Гёбекли-Тепе",
+  "lead": "Гёбекли-Тепе и как он переворачивает учебник.",
+  "hook": "Храм старше пирамид на 7000 лет",
+  "steps": [
+   {
+    "tag": "где",
+    "title": "Что это",
+    "text": "Гёбекли-Тепе находится на юго-востоке Турции. Раскопки начал Клаус Шмидт в 1990-х."
+   },
+   {
+    "tag": "возраст",
+    "title": "Насколько древний",
+    "text": "Комплекс датируют примерно 9500 годом до н. э. Пирамиды Гизы построены около 2500 до н. э."
+   },
+   {
+    "tag": "кто строил",
+    "title": "Кто строил",
+    "text": "Охотники-собиратели без металла и колеса. Это меняет представление о том, что сначала было земледелие."
+   },
+   {
+    "tag": "камни",
+    "title": "Что на камнях",
+    "text": "Резные животные и Т-образные столбы высотой несколько метров. Смысл рисунков объясняют версиями."
+   },
+   {
+    "tag": "загадка",
+    "title": "Что неизвестно",
+    "text": "Для чего служил комплекс, учёные спорят: храм, обсерватория или место встреч. Прямых надписей нет."
+   }
+  ],
+  "article": [
+   "Храм, которому около 11 500 лет. Старше пирамид примерно на 7000 лет. Что известно точно и что остаётся загадкой.",
+   "Зачем его построили, как думаешь?"
+  ],
+  "credit": "Radosław Botev, CC BY 3.0, Radoslaw Botev, CC BY 3.0"
+ },
+ "en": {
+  "title": "Göbekli Tepe",
+  "lead": "Göbekli Tepe and how it upends the textbook.",
+  "hook": "A temple 7000 years older than the pyramids",
+  "steps": [
+   {
+    "tag": "where",
+    "title": "What it is",
+    "text": "Göbekli Tepe is in south-eastern Turkey. Klaus Schmidt began the excavations in the 1990s."
+   },
+   {
+    "tag": "age",
+    "title": "How ancient",
+    "text": "The complex is dated to about 9500 BC. The pyramids of Giza were built around 2500 BC."
+   },
+   {
+    "tag": "builders",
+    "title": "Who built it",
+    "text": "Hunter-gatherers without metal or the wheel. It changes the idea that farming came first."
+   },
+   {
+    "tag": "stones",
+    "title": "What is on the stones",
+    "text": "Carved animals and T-shaped pillars several metres tall. The meaning of the carvings is explained by theories."
+   },
+   {
+    "tag": "mystery",
+    "title": "What is unknown",
+    "text": "What the complex was for is debated: a temple, an observatory or a meeting place. There are no direct inscriptions."
+   }
+  ],
+  "article": [
+   "A temple about 11,500 years old. Roughly 7000 years older than the pyramids. What is known for sure and what remains a mystery.",
+   "Why do you think it was built?"
+  ],
+  "credit": "Radosław Botev, CC BY 3.0, Radoslaw Botev, CC BY 3.0"
+ },
+ "es": {
+  "title": "Göbekli Tepe",
+  "lead": "Göbekli Tepe y cómo desbarata el libro de texto.",
+  "hook": "Un templo 7000 años más antiguo que las pirámides",
+  "steps": [
+   {
+    "tag": "dónde",
+    "title": "Qué es",
+    "text": "Göbekli Tepe está en el sureste de Turquía. Klaus Schmidt empezó las excavaciones en los años noventa."
+   },
+   {
+    "tag": "edad",
+    "title": "Qué tan antiguo",
+    "text": "El complejo se data hacia el 9500 a. C. Las pirámides de Guiza se construyeron hacia el 2500 a. C."
+   },
+   {
+    "tag": "constructores",
+    "title": "Quién lo construyó",
+    "text": "Cazadores-recolectores sin metal ni rueda. Esto cambia la idea de que primero llegó la agricultura."
+   },
+   {
+    "tag": "piedras",
+    "title": "Qué hay en las piedras",
+    "text": "Animales tallados y pilares en forma de T de varios metros de altura. El significado de los relieves se explica con teorías."
+   },
+   {
+    "tag": "misterio",
+    "title": "Qué se desconoce",
+    "text": "Para qué servía el complejo se discute: templo, observatorio o lugar de reunión. No hay inscripciones directas."
+   }
+  ],
+  "article": [
+   "Un templo de unos 11 500 años. Unos 7000 años más antiguo que las pirámides. Qué se sabe con certeza y qué sigue siendo un misterio.",
+   "¿Por qué crees que lo construyeron?"
+  ],
+  "credit": "Radosław Botev, CC BY 3.0, Radoslaw Botev, CC BY 3.0"
+ }
+}

@@ -1,0 +1,117 @@
+{
+ "slug": "baalbek-trilit",
+ "id": "12-baalbek-trilit",
+ "idx": 11,
+ "slides": 6,
+ "ru": {
+  "title": "Камни Баальбека",
+  "lead": "Как их перевезли и кто их положил.",
+  "hook": "Камни Баальбека весят по 800 тонн",
+  "steps": [
+   {
+    "tag": "где",
+    "title": "Что это",
+    "text": "Баальбек в Ливане. На платформе храма лежат три гигантских блока, их называют трилитоном."
+   },
+   {
+    "tag": "вес",
+    "title": "Сколько весят",
+    "text": "Каждый из блоков весит порядка 800 тонн. Это оценка по размерам: точное взвешивание не проводили."
+   },
+   {
+    "tag": "ещё больше",
+    "title": "Есть и больше",
+    "text": "В римской каменоломне рядом лежит блок примерно в 1000 тонн, который так и не вынули."
+   },
+   {
+    "tag": "кто строил",
+    "title": "Кто строил",
+    "text": "Храмы относят к римскому времени, но платформа может быть старше. Датировку нижних слоёв обсуждают."
+   },
+   {
+    "tag": "как",
+    "title": "Как перевезли",
+    "text": "Версии: катки, рычаги, множество людей. Римляне умели работать с большими весами, но результат остаётся впечатляющим."
+   }
+  ],
+  "article": [
+   "В Баальбеке лежат блоки весом около 800 тонн. Что известно о том, как их двигали, и где начинаются версии.",
+   "Как бы перевезли такой блок вы?"
+  ],
+  "credit": "John Douglas Woodward (1846-1924), Dumas, Tancrède R., photographer, Lodo27, CC BY-SA 3.0, общественное достояние, Vyacheslav Argenberg, CC BY 4.0, Freedom's Falcon, CC BY-SA 3.0"
+ },
+ "en": {
+  "title": "The stones of Baalbek",
+  "lead": "How they were moved and who laid them.",
+  "hook": "The stones of Baalbek weigh 800 tonnes each",
+  "steps": [
+   {
+    "tag": "where",
+    "title": "What it is",
+    "text": "Baalbek is in Lebanon. Three giant blocks lie on the temple platform; they are called the Trilithon."
+   },
+   {
+    "tag": "weight",
+    "title": "How much they weigh",
+    "text": "Each block weighs on the order of 800 tonnes. It is an estimate from size: no exact weighing has been done."
+   },
+   {
+    "tag": "even bigger",
+    "title": "There is even bigger",
+    "text": "In the Roman quarry nearby lies a block of about 1000 tonnes that was never removed."
+   },
+   {
+    "tag": "builders",
+    "title": "Who built it",
+    "text": "The temples are dated to the Roman period, but the platform may be older. The dating of the lower layers is debated."
+   },
+   {
+    "tag": "how",
+    "title": "How they moved it",
+    "text": "Theories: rollers, levers, a great many people. The Romans knew how to handle heavy loads, but the result is still impressive."
+   }
+  ],
+  "article": [
+   "At Baalbek lie blocks weighing about 800 tonnes. What is known about how they were moved, and where the theories begin.",
+   "How would you move a block like that?"
+  ],
+  "credit": "John Douglas Woodward (1846-1924), Dumas, Tancrède R., photographer, Lodo27, CC BY-SA 3.0, public domain, Vyacheslav Argenberg, CC BY 4.0, Freedom's Falcon, CC BY-SA 3.0"
+ },
+ "es": {
+  "title": "Las piedras de Baalbek",
+  "lead": "Cómo las movieron y quién las colocó.",
+  "hook": "Las piedras de Baalbek pesan 800 toneladas",
+  "steps": [
+   {
+    "tag": "dónde",
+    "title": "Qué es",
+    "text": "Baalbek está en el Líbano. En la plataforma del templo hay tres bloques gigantes, llamados el Trilitón."
+   },
+   {
+    "tag": "peso",
+    "title": "Cuánto pesan",
+    "text": "Cada bloque pesa del orden de 800 toneladas. Es una estimación por el tamaño: no se han pesado con exactitud."
+   },
+   {
+    "tag": "aún más",
+    "title": "Los hay aún mayores",
+    "text": "En la cantera romana cercana hay un bloque de unas 1000 toneladas que nunca se extrajo."
+   },
+   {
+    "tag": "constructores",
+    "title": "Quién lo construyó",
+    "text": "Los templos se atribuyen a la época romana, pero la plataforma podría ser más antigua. La datación de las capas inferiores se discute."
+   },
+   {
+    "tag": "cómo",
+    "title": "Cómo los movieron",
+    "text": "Teorías: rodillos, palancas, muchísima gente. Los romanos sabían manejar grandes pesos, pero el resultado sigue impresionando."
+   }
+  ],
+  "article": [
+   "En Baalbek hay bloques de unas 800 toneladas. Qué se sabe de cómo los movieron y dónde empiezan las teorías.",
+   "¿Cómo moverías tú un bloque así?"
+  ],
+  "credit": "John Douglas Woodward (1846-1924), Dumas, Tancrède R., photographer, Lodo27, CC BY-SA 3.0, dominio público, Vyacheslav Argenberg, CC BY 4.0, Freedom's Falcon, CC BY-SA 3.0"
+ }
+}

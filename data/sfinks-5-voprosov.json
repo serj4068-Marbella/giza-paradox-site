@@ -1,0 +1,132 @@
+{
+ "slug": "sfinks-5-voprosov",
+ "id": "04-sfinks-5-voprosov",
+ "idx": 3,
+ "slides": 7,
+ "ru": {
+  "title": "Сфинкс: 5 вопросов",
+  "lead": "Что известно и где начинаются споры.",
+  "hook": "Сфинкс: 5 вопросов без простого ответа",
+  "steps": [
+   {
+    "tag": "факт",
+    "title": "Что известно точно",
+    "text": "Сфинкс высечен из цельной скалы на плато Гиза. Длина около 73 метров, высота около 20. Египтологи обычно связывают его с фараоном Хафра."
+   },
+   {
+    "tag": "вопрос 1",
+    "title": "Кто и когда?",
+    "text": "Прямой надписи с именем строителя на нём нет. Датировка опирается на соседние постройки, а не на подпись."
+   },
+   {
+    "tag": "вопрос 2",
+    "title": "Откуда такая эрозия?",
+    "text": "Одни видят следы ветра и песка, другие, например геолог Роберт Шох, видят следы воды и дождей. Спор не закрыт."
+   },
+   {
+    "tag": "вопрос 3",
+    "title": "Кто сбил нос?",
+    "text": "Миф про пушки Наполеона опровергнут: рисунки до его прихода уже показывают сфинкса без носа."
+   },
+   {
+    "tag": "вопрос 4",
+    "title": "Какого он был цвета?",
+    "text": "По найденным следам краски, он мог быть раскрашен. Мы привыкли видеть его однотонным."
+   },
+   {
+    "tag": "вопрос 5",
+    "title": "Что под ним?",
+    "text": "Вокруг Сфинкса есть шахты и полости. Что в них найдено, нужно сверять с публикациями раскопок, а не с роликами."
+   }
+  ],
+  "article": [
+   "Сфинкс хранит больше вопросов, чем ответов. Собрал 5 самых спорных и отделил факт от версии.",
+   "Какой вопрос, по-твоему, самый острый? Напиши номер."
+  ],
+  "credit": "общественное достояние, David Roberts, John Harrison Allan, Impr. impériale, Matson Collection, Gary Todd"
+ },
+ "en": {
+  "title": "The Sphinx: 5 questions",
+  "lead": "What is known and where the arguments begin.",
+  "hook": "The Sphinx: 5 questions without a simple answer",
+  "steps": [
+   {
+    "tag": "fact",
+    "title": "What is known for sure",
+    "text": "The Sphinx is carved from a single mass of bedrock on the Giza plateau. About 73 metres long and about 20 metres high. Egyptologists usually link it to the pharaoh Khafre."
+   },
+   {
+    "tag": "question 1",
+    "title": "Who and when?",
+    "text": "There is no direct inscription naming its builder. The dating relies on neighbouring structures, not on a signature."
+   },
+   {
+    "tag": "question 2",
+    "title": "Where does the erosion come from?",
+    "text": "Some see traces of wind and sand; others, such as geologist Robert Schoch, see traces of water and rain. The dispute is not settled."
+   },
+   {
+    "tag": "question 3",
+    "title": "Who broke the nose?",
+    "text": "The myth about Napoleon's cannons has been refuted: drawings made before his arrival already show the Sphinx without a nose."
+   },
+   {
+    "tag": "question 4",
+    "title": "What colour was it?",
+    "text": "Traces of paint suggest it may have been painted. We are used to seeing it in a single tone."
+   },
+   {
+    "tag": "question 5",
+    "title": "What is beneath it?",
+    "text": "There are shafts and cavities around the Sphinx. What was found in them should be checked against excavation publications, not videos."
+   }
+  ],
+  "article": [
+   "The Sphinx holds more questions than answers. I collected the 5 most disputed and separated fact from theory.",
+   "Which question do you think is the sharpest? Write the number."
+  ],
+  "credit": "public domain, David Roberts, John Harrison Allan, Impr. impériale, Matson Collection, Gary Todd"
+ },
+ "es": {
+  "title": "La Esfinge: 5 preguntas",
+  "lead": "Qué se sabe y dónde empiezan las discusiones.",
+  "hook": "La Esfinge: 5 preguntas sin respuesta sencilla",
+  "steps": [
+   {
+    "tag": "hecho",
+    "title": "Lo que se sabe con certeza",
+    "text": "La Esfinge está tallada en una sola masa de roca de la meseta de Guiza. Mide unos 73 metros de largo y unos 20 de alto. Los egiptólogos suelen vincularla con el faraón Kefrén."
+   },
+   {
+    "tag": "pregunta 1",
+    "title": "¿Quién y cuándo?",
+    "text": "No hay una inscripción directa con el nombre de su constructor. La datación se basa en las construcciones vecinas, no en una firma."
+   },
+   {
+    "tag": "pregunta 2",
+    "title": "¿De dónde viene la erosión?",
+    "text": "Unos ven huellas de viento y arena; otros, como el geólogo Robert Schoch, ven huellas de agua y lluvias. La discusión sigue abierta."
+   },
+   {
+    "tag": "pregunta 3",
+    "title": "¿Quién rompió la nariz?",
+    "text": "El mito de los cañones de Napoleón está refutado: los dibujos anteriores a su llegada ya muestran la Esfinge sin nariz."
+   },
+   {
+    "tag": "pregunta 4",
+    "title": "¿De qué color era?",
+    "text": "Por los restos de pintura, pudo estar pintada. Estamos acostumbrados a verla de un solo tono."
+   },
+   {
+    "tag": "pregunta 5",
+    "title": "¿Qué hay debajo?",
+    "text": "Alrededor de la Esfinge hay pozos y cavidades. Lo que se halló en ellos hay que contrastarlo con las publicaciones de las excavaciones, no con los vídeos."
+   }
+  ],
+  "article": [
+   "La Esfinge guarda más preguntas que respuestas. Reuní las 5 más discutidas y separé hecho de teoría.",
+   "¿Cuál te parece la más aguda? Escribe el número."
+  ],
+  "credit": "dominio público, David Roberts, John Harrison Allan, Impr. impériale, Matson Collection, Gary Todd"
+ }
+}

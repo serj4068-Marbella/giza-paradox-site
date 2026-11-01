@@ -1,0 +1,117 @@
+{
+ "slug": "papirus-mera",
+ "id": "09-papirus-mera",
+ "idx": 8,
+ "slides": 6,
+ "ru": {
+  "title": "Дневник строителя пирамиды",
+  "lead": "Что рассказывает самый древний папирус Египта.",
+  "hook": "Дневник строителя пирамиды",
+  "steps": [
+   {
+    "tag": "находка",
+    "title": "Что нашли",
+    "text": "В 2013 году на берегу Красного моря, в Вади-эль-Джарф, нашли самые древние известные папирусы Египта."
+   },
+   {
+    "tag": "автор",
+    "title": "Кто писал",
+    "text": "Автор — чиновник Мерер. Он руководил бригадой, которая возила известняк на лодках."
+   },
+   {
+    "tag": "записи",
+    "title": "Что записано",
+    "text": "В записях речь о поездках за облицовочным камнем в каменоломни Тура и доставке к строящейся пирамиде Хуфу."
+   },
+   {
+    "tag": "значение",
+    "title": "Почему важно",
+    "text": "Это единственные известные записи рабочих о строительстве. Они показывают организацию труда, а не магию."
+   },
+   {
+    "tag": "пробел",
+    "title": "Чего там нет",
+    "text": "Как именно камни поднимали на высоту, в записях не сказано. Этот вопрос остаётся открытым."
+   }
+  ],
+  "article": [
+   "Дневник чиновника Мерера, которому больше 4500 лет. Что в нём записано и чего там нет.",
+   "Какой вопрос вы бы задали строителям?"
+  ],
+  "credit": "Jeff Dahl, Matthäus Wander, общественное достояние, Zemanst, Warren LeMay, Marsupium, Matson Collection"
+ },
+ "en": {
+  "title": "The pyramid builder's diary",
+  "lead": "What the oldest papyrus in Egypt says.",
+  "hook": "A pyramid builder's diary",
+  "steps": [
+   {
+    "tag": "discovery",
+    "title": "What was found",
+    "text": "In 2013, at Wadi al-Jarf on the Red Sea coast, the oldest known papyri of Egypt were found."
+   },
+   {
+    "tag": "author",
+    "title": "Who wrote it",
+    "text": "The author is an official named Merer. He led a crew that carried limestone by boat."
+   },
+   {
+    "tag": "entries",
+    "title": "What is written",
+    "text": "The entries describe trips for casing stone to the Tura quarries and delivery to Khufu's pyramid under construction."
+   },
+   {
+    "tag": "meaning",
+    "title": "Why it matters",
+    "text": "These are the only known records by workers about the construction. They show how labour was organised, not magic."
+   },
+   {
+    "tag": "gap",
+    "title": "What is missing",
+    "text": "How exactly the stones were lifted to height is not stated in the records. That question remains open."
+   }
+  ],
+  "article": [
+   "The diary of an official named Merer, more than 4500 years old. What is written in it and what is not.",
+   "What question would you ask the builders?"
+  ],
+  "credit": "Jeff Dahl, Matthäus Wander, public domain, Zemanst, Warren LeMay, Marsupium, Matson Collection"
+ },
+ "es": {
+  "title": "El diario del constructor",
+  "lead": "Qué cuenta el papiro más antiguo de Egipto.",
+  "hook": "El diario de un constructor de la pirámide",
+  "steps": [
+   {
+    "tag": "hallazgo",
+    "title": "Qué se encontró",
+    "text": "En 2013, en Uadi el-Jarf, en la costa del mar Rojo, se hallaron los papiros más antiguos conocidos de Egipto."
+   },
+   {
+    "tag": "autor",
+    "title": "Quién lo escribió",
+    "text": "El autor es un funcionario llamado Merer. Dirigía una cuadrilla que transportaba caliza en barcos."
+   },
+   {
+    "tag": "registros",
+    "title": "Qué está escrito",
+    "text": "Los registros hablan de viajes en busca de piedra de revestimiento a las canteras de Tura y de su entrega a la pirámide de Keops en construcción."
+   },
+   {
+    "tag": "importancia",
+    "title": "Por qué importa",
+    "text": "Son los únicos registros conocidos de trabajadores sobre la construcción. Muestran cómo se organizaba el trabajo, no magia."
+   },
+   {
+    "tag": "laguna",
+    "title": "Lo que no hay",
+    "text": "Cómo se subían las piedras a gran altura no aparece en los registros. Esa pregunta sigue abierta."
+   }
+  ],
+  "article": [
+   "El diario de un funcionario llamado Merer, con más de 4500 años. Qué dice y qué no dice.",
+   "¿Qué pregunta les harías a los constructores?"
+  ],
+  "credit": "Jeff Dahl, Matthäus Wander, dominio público, Zemanst, Warren LeMay, Marsupium, Matson Collection"
+ }
+}

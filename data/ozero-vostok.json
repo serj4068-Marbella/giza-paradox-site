@@ -1,0 +1,117 @@
+{
+ "slug": "ozero-vostok",
+ "id": "07-ozero-vostok",
+ "idx": 6,
+ "slides": 6,
+ "ru": {
+  "title": "Озеро Восток",
+  "lead": "Что известно об озере Восток.",
+  "hook": "Озеро под 4 километрами льда",
+  "steps": [
+   {
+    "tag": "что это",
+    "title": "Озеро подо льдом",
+    "text": "Озеро Восток находится под антарктическим льдом. Толщина льда над ним порядка четырёх километров."
+   },
+   {
+    "tag": "как нашли",
+    "title": "Как обнаружили",
+    "text": "Его существование вычислили по радарам и сейсмике ещё до бурения. Это подтвердили в 1990-е годы."
+   },
+   {
+    "tag": "бурение",
+    "title": "Бурение десятилетиями",
+    "text": "Российские учёные бурили скважину много лет. Контакта с водой озера достигли в 2012 году."
+   },
+   {
+    "tag": "находки",
+    "title": "Что нашли",
+    "text": "В образцах обнаружили следы микроорганизмов. Выводы обсуждают: образцы легко загрязнить с поверхности."
+   },
+   {
+    "tag": "зачем",
+    "title": "Почему это важно",
+    "text": "Такие озёра служат моделью для поиска жизни под льдом спутников Юпитера и Сатурна."
+   }
+  ],
+  "article": [
+   "Под четырьмя километрами льда Антарктиды лежит озеро. Что про него известно точно, а что обсуждают до сих пор.",
+   "Что ещё про Антарктиду разобрать? Пишите темы."
+  ],
+  "credit": "NASA ICE, общественное достояние, NASA Goddard Space Flight Center, NASA"
+ },
+ "en": {
+  "title": "Lake Vostok",
+  "lead": "What is known about Lake Vostok.",
+  "hook": "A lake under 4 kilometres of ice",
+  "steps": [
+   {
+    "tag": "what it is",
+    "title": "A lake under the ice",
+    "text": "Lake Vostok lies beneath the Antarctic ice. The ice above it is on the order of four kilometres thick."
+   },
+   {
+    "tag": "how it was found",
+    "title": "How it was discovered",
+    "text": "Its existence was worked out from radar and seismic data before any drilling. It was confirmed in the 1990s."
+   },
+   {
+    "tag": "drilling",
+    "title": "Decades of drilling",
+    "text": "Russian scientists drilled the borehole for many years. They reached the lake water in 2012."
+   },
+   {
+    "tag": "findings",
+    "title": "What was found",
+    "text": "Traces of microorganisms were reported in the samples. The conclusions are debated: samples are easily contaminated from the surface."
+   },
+   {
+    "tag": "why",
+    "title": "Why it matters",
+    "text": "Such lakes serve as a model for the search for life under the ice of the moons of Jupiter and Saturn."
+   }
+  ],
+  "article": [
+   "Under four kilometres of Antarctic ice lies a lake. What is known about it for sure, and what is still debated.",
+   "What else about Antarctica should I cover? Send topics."
+  ],
+  "credit": "NASA ICE, public domain, NASA Goddard Space Flight Center, NASA"
+ },
+ "es": {
+  "title": "El lago Vostok",
+  "lead": "Qué se sabe del lago Vostok.",
+  "hook": "Un lago bajo 4 kilómetros de hielo",
+  "steps": [
+   {
+    "tag": "qué es",
+    "title": "Un lago bajo el hielo",
+    "text": "El lago Vostok está bajo el hielo antártico. El grosor del hielo sobre él es del orden de cuatro kilómetros."
+   },
+   {
+    "tag": "cómo se halló",
+    "title": "Cómo se descubrió",
+    "text": "Su existencia se calculó con radar y sísmica antes de perforar. Se confirmó en los años noventa."
+   },
+   {
+    "tag": "perforación",
+    "title": "Décadas de perforación",
+    "text": "Científicos rusos perforaron el pozo durante muchos años. Llegaron al agua del lago en 2012."
+   },
+   {
+    "tag": "hallazgos",
+    "title": "Qué se encontró",
+    "text": "En las muestras se detectaron rastros de microorganismos. Las conclusiones se discuten: las muestras se contaminan fácilmente desde la superficie."
+   },
+   {
+    "tag": "por qué",
+    "title": "Por qué importa",
+    "text": "Estos lagos sirven de modelo para buscar vida bajo el hielo de las lunas de Júpiter y Saturno."
+   }
+  ],
+  "article": [
+   "Bajo cuatro kilómetros de hielo antártico hay un lago. Qué se sabe de él con certeza y qué se sigue discutiendo.",
+   "¿Qué más de la Antártida debería analizar? Escribe tus temas."
+  ],
+  "credit": "NASA ICE, dominio público, NASA Goddard Space Flight Center, NASA"
+ }
+}

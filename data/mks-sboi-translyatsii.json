@@ -1,0 +1,117 @@
+{
+ "slug": "mks-sboi-translyatsii",
+ "id": "06-mks-sboi-translyatsii",
+ "idx": 5,
+ "slides": 6,
+ "ru": {
+  "title": "Трансляция с МКС прервалась",
+  "lead": "Три обычных причины и как их проверить.",
+  "hook": "Трансляция с МКС прервалась. Секрет?",
+  "steps": [
+   {
+    "tag": "что видим",
+    "title": "Что показывает картинка",
+    "text": "Прямая трансляция с МКС часто переключается на заставку или чёрный экран. Это видели тысячи зрителей."
+   },
+   {
+    "tag": "причина 1",
+    "title": "Потеря сигнала",
+    "text": "Видео идёт через спутники-ретрансляторы. Когда связь переходит от одного спутника к другому, картинка пропадает."
+   },
+   {
+    "tag": "причина 2",
+    "title": "Ночная сторона",
+    "text": "Станция облетает Землю примерно за 90 минут. Часть витка камеры снимают просто темноту."
+   },
+   {
+    "tag": "причина 3",
+    "title": "Работа экипажа",
+    "text": "Видео могут отключать для работы экипажа или закрытых переговоров. Это обычная практика связи."
+   },
+   {
+    "tag": "проверка",
+    "title": "Как проверить",
+    "text": "Сравни время обрыва с картой положения станции и расписанием связи. Совпадение с ночной стороной или сменой спутника объясняет паузу."
+   }
+  ],
+  "article": [
+   "Трансляция с МКС оборвалась, значит, что-то скрывают? Разобрал три обычные причины и дал способ проверить.",
+   "Видели такой обрыв сами? Напишите когда."
+  ],
+  "credit": "NASA/Crew of STS-132, NASA/Tracy Caldwell Dyson, NASA/Scott Kelly, NASA/Don Pettit, Scott Kelly, NASA"
+ },
+ "en": {
+  "title": "The ISS feed cut out",
+  "lead": "Three ordinary reasons and how to check them.",
+  "hook": "The ISS feed cut out. A secret?",
+  "steps": [
+   {
+    "tag": "what we see",
+    "title": "What the picture shows",
+    "text": "The live ISS feed often switches to a placeholder or a black screen. Thousands of viewers have seen it."
+   },
+   {
+    "tag": "reason 1",
+    "title": "Loss of signal",
+    "text": "The video travels through relay satellites. When the link passes from one satellite to another, the picture drops out."
+   },
+   {
+    "tag": "reason 2",
+    "title": "The night side",
+    "text": "The station orbits the Earth in about 90 minutes. For part of each orbit the cameras simply film darkness."
+   },
+   {
+    "tag": "reason 3",
+    "title": "Crew work",
+    "text": "The video can be switched off for crew work or private conversations. It is ordinary communications practice."
+   },
+   {
+    "tag": "check",
+    "title": "How to check",
+    "text": "Compare the time of the cut with a map of the station's position and the communications schedule. A match with the night side or a satellite handover explains the pause."
+   }
+  ],
+  "article": [
+   "The ISS feed cut out, so something is being hidden? I went through three ordinary reasons and a way to check.",
+   "Did you see such a cut yourself? Tell us when."
+  ],
+  "credit": "NASA/Crew of STS-132, NASA/Tracy Caldwell Dyson, NASA/Scott Kelly, NASA/Don Pettit, Scott Kelly, NASA"
+ },
+ "es": {
+  "title": "Se cortó la señal de la EEI",
+  "lead": "Tres causas habituales y cómo comprobarlas.",
+  "hook": "Se cortó la transmisión de la EEI. ¿Secreto?",
+  "steps": [
+   {
+    "tag": "lo que vemos",
+    "title": "Qué muestra la imagen",
+    "text": "La transmisión en directo de la EEI suele pasar a una pantalla de espera o a negro. Lo han visto miles de espectadores."
+   },
+   {
+    "tag": "causa 1",
+    "title": "Pérdida de señal",
+    "text": "El vídeo viaja a través de satélites de retransmisión. Cuando el enlace pasa de un satélite a otro, la imagen se corta."
+   },
+   {
+    "tag": "causa 2",
+    "title": "El lado nocturno",
+    "text": "La estación da una vuelta a la Tierra en unos 90 minutos. Durante parte de cada órbita las cámaras solo graban oscuridad."
+   },
+   {
+    "tag": "causa 3",
+    "title": "El trabajo de la tripulación",
+    "text": "El vídeo puede desconectarse por el trabajo de la tripulación o por conversaciones reservadas. Es una práctica normal de comunicaciones."
+   },
+   {
+    "tag": "comprobación",
+    "title": "Cómo comprobarlo",
+    "text": "Compara la hora del corte con un mapa de la posición de la estación y el calendario de comunicaciones. Si coincide con el lado nocturno o con un cambio de satélite, la pausa queda explicada."
+   }
+  ],
+  "article": [
+   "Se cortó la transmisión de la EEI: ¿ocultan algo? Repasé tres causas habituales y una forma de comprobarlo.",
+   "¿Viste un corte así? Cuéntanos cuándo."
+  ],
+  "credit": "NASA/Crew of STS-132, NASA/Tracy Caldwell Dyson, NASA/Scott Kelly, NASA/Don Pettit, Scott Kelly, NASA"
+ }
+}

@@ -41,7 +41,7 @@ function article(d, l) {
       <ol class="steps">
         ${c.steps.map((s) => `<li><span class="tag">${esc(s.tag)}</span><h3>${esc(s.title)}</h3><p>${esc(s.text)}</p></li>`).join('\n        ')}
       </ol>
-      <p class="credit">${u.credit}: ${esc(d.credit)}.</p>
+      <p class="credit">${u.credit}: ${esc(c.credit)}.</p>
       <a class="cta" href="${TG[l]}" target="_blank" rel="noopener"><span>${u.cta}<small>${u.ctaSub}</small></span><span class="go" aria-hidden="true">→</span></a>
     </div>`;
 }

@@ -1,0 +1,117 @@
+{
+ "slug": "antikiterskiy-mehanizm",
+ "id": "11-antikiterskiy-mehanizm",
+ "idx": 10,
+ "slides": 6,
+ "ru": {
+  "title": "Антикитерский механизм",
+  "lead": "Антикитерский механизм без мифов.",
+  "hook": "Компьютер 2000 лет назад?",
+  "steps": [
+   {
+    "tag": "находка",
+    "title": "Что нашли",
+    "text": "В 1901 году водолазы подняли обломки механизма с затонувшего у острова Антикитера корабля."
+   },
+   {
+    "tag": "устройство",
+    "title": "Что внутри",
+    "text": "Десятки бронзовых шестерён в деревянном корпусе. Они связаны между собой, как в часовом механизме."
+   },
+   {
+    "tag": "возможности",
+    "title": "Что он умел",
+    "text": "По современным исследованиям, он показывал положения Солнца и Луны и помогал предсказывать затмения."
+   },
+   {
+    "tag": "возраст",
+    "title": "Когда создан",
+    "text": "Датируют ориентировочно II–I веком до н. э. Мастер и точная дата не установлены."
+   },
+   {
+    "tag": "граница",
+    "title": "Где граница",
+    "text": "Это не «компьютер» и не доказательство сверхцивилизации. Это очень сложный механизм, показывающий уровень мастеров древности."
+   }
+  ],
+  "article": [
+   "Антикитерский механизм: что это было и почему его называют «первым компьютером». Факты без мифов.",
+   "Что ещё из древних изобретений вас удивляет?"
+  ],
+  "credit": "Peulle, CC BY-SA 4.0, Logg Tandy, CC BY 4.0, Logg Tandy, CC BY-SA 4.0"
+ },
+ "en": {
+  "title": "The Antikythera mechanism",
+  "lead": "The Antikythera mechanism without myths.",
+  "hook": "A computer 2000 years ago?",
+  "steps": [
+   {
+    "tag": "discovery",
+    "title": "What was found",
+    "text": "In 1901 divers recovered fragments of a mechanism from a ship that sank near the island of Antikythera."
+   },
+   {
+    "tag": "design",
+    "title": "What is inside",
+    "text": "Dozens of bronze gears in a wooden case. They are linked together like a clockwork mechanism."
+   },
+   {
+    "tag": "abilities",
+    "title": "What it could do",
+    "text": "According to modern research, it showed the positions of the Sun and Moon and helped predict eclipses."
+   },
+   {
+    "tag": "age",
+    "title": "When it was made",
+    "text": "Dated roughly to the 2nd–1st century BC. The maker and exact date are not established."
+   },
+   {
+    "tag": "the line",
+    "title": "Where is the line",
+    "text": "It is not a “computer” and not proof of a super-civilisation. It is a very complex mechanism showing the skill of ancient craftsmen."
+   }
+  ],
+  "article": [
+   "The Antikythera mechanism: what it was and why it is called the “first computer”. Facts without myths.",
+   "What other ancient inventions surprise you?"
+  ],
+  "credit": "Peulle, CC BY-SA 4.0, Logg Tandy, CC BY 4.0, Logg Tandy, CC BY-SA 4.0"
+ },
+ "es": {
+  "title": "El mecanismo de Anticitera",
+  "lead": "El mecanismo de Anticitera sin mitos.",
+  "hook": "¿Un ordenador hace 2000 años?",
+  "steps": [
+   {
+    "tag": "hallazgo",
+    "title": "Qué se encontró",
+    "text": "En 1901 unos buzos recuperaron fragmentos de un mecanismo de un barco hundido cerca de la isla de Anticitera."
+   },
+   {
+    "tag": "estructura",
+    "title": "Qué hay dentro",
+    "text": "Decenas de engranajes de bronce en una caja de madera. Están conectados entre sí como en un reloj."
+   },
+   {
+    "tag": "capacidades",
+    "title": "Qué sabía hacer",
+    "text": "Según las investigaciones actuales, mostraba las posiciones del Sol y la Luna y ayudaba a predecir eclipses."
+   },
+   {
+    "tag": "edad",
+    "title": "Cuándo se fabricó",
+    "text": "Se data aproximadamente entre los siglos II y I a. C. El artesano y la fecha exacta no están establecidos."
+   },
+   {
+    "tag": "límite",
+    "title": "Dónde está el límite",
+    "text": "No es un «ordenador» ni prueba de una supercivilización. Es un mecanismo muy complejo que muestra el nivel de los maestros de la Antigüedad."
+   }
+  ],
+  "article": [
+   "El mecanismo de Anticitera: qué era y por qué lo llaman el «primer ordenador». Hechos sin mitos.",
+   "¿Qué otros inventos antiguos te sorprenden?"
+  ],
+  "credit": "Peulle, CC BY-SA 4.0, Logg Tandy, CC BY 4.0, Logg Tandy, CC BY-SA 4.0"
+ }
+}

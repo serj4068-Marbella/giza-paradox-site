@@ -10,8 +10,8 @@ const LINKS = {
   fb: 'https://www.facebook.com/groups/2659911541126314',
   fbp: 'https://www.facebook.com/profile.php?id=61590531682788',
 };
-const PAGES = { '01': 'antarktida' };
-const COVERS = ['01', '02', '04', '10', '11', '14'];
+const CAR = fs.readdirSync(path.join(__dirname, 'data')).filter((f) => f.endsWith('.json')).map((f) => JSON.parse(fs.readFileSync(path.join(__dirname, 'data', f), 'utf8'))).sort((a, b) => a.idx - b.idx);
+
 
 const T = {
   ru: {
@@ -23,7 +23,7 @@ const T = {
     stats: [['3', 'канала в Telegram'], ['3', 'языка: RU, EN, ES'], ['14', 'каруселей в первой серии']],
     s1: 'Как это устроено',
     how: [['Что известно', 'Факты, которые подтверждены открытыми источниками.'], ['Что спорно', 'Версии и гипотезы: отделяю их от фактов.'], ['Как проверить', 'Открытые снимки и данные, чтобы вы убедились сами.']],
-    s2: 'Карусели', s2lead: 'Свайпайте в Telegram: каждая карусель отделяет факт от версии.',
+    s2: 'Карусели', s2lead: 'Откройте карусель: слайды, разбор текстом и источники. Каждая отделяет факт от версии.',
     covers: ['Антарктида: проверь сам', 'Как построили Великую пирамиду', 'Сфинкс: 5 вопросов', 'Гёбекли-Тепе', 'Антикитерский механизм', 'Саксайуаман'],
     s3: 'Об авторе',
     about: ['Я Сергей. Мне 58, а вайбкодинг я начал в 57. Решил, что динозавры тоже умеют в нейросети, и подружился с ИИ.', 'Теперь мы вместе копаемся в пирамидах, а я проверяю за ними факты. Учусь, не сдаюсь, пока ни разу не обиделся на робота.'],
@@ -41,7 +41,7 @@ const T = {
     stats: [['3', 'Telegram channels'], ['3', 'languages: RU, EN, ES'], ['14', 'carousels in the first series']],
     s1: 'How it works',
     how: [['What is known', 'Facts confirmed by open sources.'], ['What is disputed', 'Theories and hypotheses, kept apart from facts.'], ['How to check', 'Open images and data, so you can see for yourself.']],
-    s2: 'Carousels', s2lead: 'Swipe through them on Telegram: each one separates fact from theory.',
+    s2: 'Carousels', s2lead: 'Open a carousel: slides, a text breakdown and sources. Each one separates fact from theory.',
     covers: ['Antarctica: check it yourself', 'How the Great Pyramid was built', 'The Sphinx: 5 questions', 'Göbekli Tepe', 'The Antikythera Mechanism', 'Sacsayhuamán'],
     s3: 'About the author',
     about: ["I'm Sergey. I'm 58 and started vibe coding at 57. I decided that dinosaurs can do AI too, and made friends with the AIs.", "Now we dig into pyramids together, and I fact-check what they say. I keep learning and I don't give up. So far I haven't taken offence at a robot once."],
@@ -59,7 +59,7 @@ const T = {
     stats: [['3', 'canales de Telegram'], ['3', 'idiomas: RU, EN, ES'], ['14', 'carruseles en la primera serie']],
     s1: 'Cómo funciona',
     how: [['Qué se sabe', 'Hechos confirmados por fuentes abiertas.'], ['Qué se discute', 'Teorías e hipótesis, separadas de los hechos.'], ['Cómo comprobarlo', 'Imágenes y datos abiertos para que lo veas tú mismo.']],
-    s2: 'Carruseles', s2lead: 'Desliza en Telegram: cada carrusel separa el hecho de la teoría.',
+    s2: 'Carruseles', s2lead: 'Abre un carrusel: diapositivas, resumen en texto y fuentes. Cada uno separa el hecho de la teoría.',
     covers: ['Antártida: compruébalo tú', 'Cómo se construyó la Gran Pirámide', 'La Esfinge: 5 preguntas', 'Göbekli Tepe', 'El mecanismo de Anticitera', 'Sacsayhuamán'],
     s3: 'Sobre el autor',
     about: ['Soy Sergey. Tengo 58 años y empecé con el vibe coding a los 57. Decidí que los dinosaurios también pueden usar IA y me hice amigo de las IA.', 'Ahora exploramos juntos las pirámides y yo verifico sus datos. Sigo aprendiendo y no me rindo. Hasta ahora no me he ofendido con ningún robot.'],
@@ -100,7 +100,7 @@ function hero(L) {
 }
 
 function body(L) {
-  const thumbs = COVERS.map((c, i) => `<li><a href="${PAGES[c] ? `carousel/${PAGES[c]}/#${L.k}` : TG[L.k]}"${PAGES[c] ? "" : " target=\"_blank\" rel=\"noopener\""}><img src="img/carousels/${L.k}-${c}.jpg" width="540" height="675" loading="lazy" alt="${L.covers[i]}"><span>${L.covers[i]}</span></a></li>`).join('\n          ');
+  const thumbs = CAR.map((d) => `<li><a href="carousel/${d.slug}/#${L.k}"><img src="img/carousel/${d.slug}/${L.k}-01.jpg" width="720" height="900" loading="lazy" alt="${d[L.k].title}"><span>${d[L.k].title}</span></a></li>`).join('\n          ');
   return `<div class="content" data-lang="${L.k}">
     <section class="block" aria-labelledby="h-${L.k}-1">
       <h2 id="h-${L.k}-1"><i>01</i>${L.s1}</h2>
