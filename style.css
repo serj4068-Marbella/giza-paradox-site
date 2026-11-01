@@ -28,7 +28,7 @@ a{color:inherit}
 .hero{position:relative;min-height:100svh;display:flex;align-items:flex-end;overflow:hidden;border-bottom:1px solid var(--line)}
 .hero-art{position:absolute}
 .hero-art img{position:absolute;inset:0;width:100%;height:100%;filter:sepia(.35) saturate(.8) brightness(.55) contrast(1.05)}
-.peek{position:absolute;left:71%;top:31.2%;width:28%;height:auto;clip-path:polygon(0 -3%,100% 92%,100% -50%,0 -50%);overflow:visible}
+.peek{position:absolute;left:66%;top:17.2%;width:32%;height:auto;clip-path:polygon(0 20%,100% 111%,100% -50%,0 -50%);overflow:visible}
 .hero-art::after{content:""}
 .hero::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(11,10,9,.55) 0,rgba(11,10,9,.15) 35%,rgba(11,10,9,.92) 100%)}
 .lens{display:none;position:absolute;z-index:1;right:max(4vw,16px);top:18%;width:min(34vw,380px);aspect-ratio:1;border:2px solid var(--gold);border-radius:50%;box-shadow:0 0 0 10px rgba(212,168,80,.08)}
@@ -37,7 +37,7 @@ a{color:inherit}
 .kicker{margin:0 0 16px;font:500 13px var(--body);letter-spacing:.22em;text-transform:uppercase;color:var(--gold)}
 h1{margin:0;font-family:var(--head);text-transform:uppercase;line-height:.92;font-weight:600}
 h1 .brand{display:block;font-size:clamp(16px,2vw,22px);letter-spacing:.3em;color:var(--muted);font-weight:400;margin-bottom:12px}
-h1 .big{display:block;font-size:clamp(56px,13.5vw,200px);letter-spacing:-.01em;text-wrap:balance}
+h1 .big{display:block;font-size:clamp(56px,11.5vw,168px);letter-spacing:-.01em;text-wrap:balance}
 .lead{max-width:56ch;margin:24px 0 32px;font-size:clamp(17px,1.6vw,20px);color:#ddd5c4}
 .cta{display:inline-flex;align-items:center;gap:28px;padding:20px 28px;background:var(--gold);color:#17120a;text-decoration:none;font:600 20px/1.2 var(--head);letter-spacing:.06em;text-transform:uppercase;min-height:64px;transition:background .2s,transform .2s}
 .cta small{display:block;font:500 13px var(--body);letter-spacing:.04em;text-transform:none;opacity:.8;margin-top:4px}
@@ -92,6 +92,7 @@ h3{margin:12px 0 8px;font:600 26px/1.1 var(--head);text-transform:uppercase}
   .how li,.how li+li{padding:24px 0;border-right:0;border-bottom:1px solid var(--line)}
   .how li:last-child{border-bottom:0}
   .lens{display:none}
+  .peek{display:none}
   .hero-in{padding-block:100px 40px}
   .cta{width:100%;justify-content:space-between}
   h2{gap:14px}
