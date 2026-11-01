@@ -172,7 +172,7 @@ ${langs.map((L) => `<a class="skip" href="#main" data-lang="${L.k}">${L.skip}</a
 <main id="main">
   <section class="hero">
     <img class="hero-img" src="img/pyramid.jpg" width="2000" height="1346" alt="" fetchpriority="high">
-    <div class="lens" aria-hidden="true"></div>
+    <div class="lens" aria-hidden="true">${DINO.replace('class="dino"','class="lens-dino"').replace(/ role="img" aria-label="__ALT__"/,'')}</div>
     <div class="wrap hero-in">
     ${langs.map(hero).join('\n    ')}
     </div>

@@ -30,6 +30,7 @@ a{color:inherit}
 .hero::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(11,10,9,.55) 0,rgba(11,10,9,.15) 35%,rgba(11,10,9,.92) 100%)}
 .lens{position:absolute;z-index:1;right:max(4vw,16px);top:18%;width:min(34vw,380px);aspect-ratio:1;border:2px solid var(--gold);border-radius:50%;box-shadow:0 0 0 10px rgba(212,168,80,.08)}
 .lens::after{content:"";position:absolute;width:3px;height:44%;background:var(--gold);right:-6%;bottom:-30%;transform:rotate(-45deg);transform-origin:top;border-radius:2px}
+.lens-dino{position:absolute;inset:0;margin:auto;width:72%;height:auto;color:var(--gold);transform:translateY(-4%)}
 .hero-in{position:relative;z-index:2;padding-block:120px 56px}
 .kicker{margin:0 0 16px;font:500 13px var(--body);letter-spacing:.22em;text-transform:uppercase;color:var(--gold)}
 h1{margin:0;font-family:var(--head);text-transform:uppercase;line-height:.92;font-weight:600}
@@ -79,6 +80,7 @@ h3{margin:12px 0 8px;font:600 26px/1.1 var(--head);text-transform:uppercase}
 .foot p{margin:0}
 
 @media (max-width:900px){
+  .lens{top:64px;width:24vw}
   .thumbs{grid-template-columns:repeat(3,1fr)}
   .about{grid-template-columns:1fr}
   .dino{max-width:260px}

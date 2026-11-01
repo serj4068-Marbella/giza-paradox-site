@@ -54,6 +54,7 @@ a{color:inherit}
 .hero::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(11,10,9,.55) 0,rgba(11,10,9,.15) 35%,rgba(11,10,9,.92) 100%)}
 .lens{position:absolute;z-index:1;right:max(4vw,16px);top:18%;width:min(34vw,380px);aspect-ratio:1;border:2px solid var(--gold);border-radius:50%;box-shadow:0 0 0 10px rgba(212,168,80,.08)}
 .lens::after{content:"";position:absolute;width:3px;height:44%;background:var(--gold);right:-6%;bottom:-30%;transform:rotate(-45deg);transform-origin:top;border-radius:2px}
+.lens-dino{position:absolute;inset:0;margin:auto;width:72%;height:auto;color:var(--gold);transform:translateY(-4%)}
 .hero-in{position:relative;z-index:2;padding-block:120px 56px}
 .kicker{margin:0 0 16px;font:500 13px var(--body);letter-spacing:.22em;text-transform:uppercase;color:var(--gold)}
 h1{margin:0;font-family:var(--head);text-transform:uppercase;line-height:.92;font-weight:600}
@@ -103,6 +104,7 @@ h3{margin:12px 0 8px;font:600 26px/1.1 var(--head);text-transform:uppercase}
 .foot p{margin:0}
 
 @media (max-width:900px){
+  .lens{top:64px;width:24vw}
   .thumbs{grid-template-columns:repeat(3,1fr)}
   .about{grid-template-columns:1fr}
   .dino{max-width:260px}
@@ -142,7 +144,19 @@ h3{margin:12px 0 8px;font:600 26px/1.1 var(--head);text-transform:uppercase}
 <main id="main">
   <section class="hero">
     <img class="hero-img" src="img/pyramid.jpg" width="2000" height="1346" alt="" fetchpriority="high">
-    <div class="lens" aria-hidden="true"></div>
+    <div class="lens" aria-hidden="true"><svg class="lens-dino" viewBox="0 0 240 140" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M52 92 C60 62 96 56 124 62 C142 64 150 54 150 38 C150 24 156 16 168 16 C180 16 188 22 188 30 C188 36 184 40 178 40 C170 40 168 50 164 62 C160 78 140 100 118 100 L60 100"/>
+    <path d="M52 92 C36 96 20 104 8 122"/>
+    <path d="M70 100 L70 124 L86 124 L86 100"/>
+    <path d="M112 100 L112 124 L128 124 L128 100"/>
+    <circle cx="172" cy="26" r="2.5" fill="currentColor" stroke="none"/>
+    <path d="M178 38 C182 40 186 38 188 35"/>
+    <rect x="156" y="102" width="52" height="30" rx="3"/>
+    <path d="M148 132 H216"/>
+    <path d="M198 56 l4 -9 M208 62 l9 -4 M204 72 l9 3"/>
+  </g>
+</svg></div>
     <div class="wrap hero-in">
     <div class="hero-copy" data-lang="ru">
       <p class="kicker">Загадки древности без мистики</p>
