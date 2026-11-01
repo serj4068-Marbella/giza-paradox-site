@@ -50,6 +50,17 @@
   .btn small { display: block; color: var(--muted); font-size: 14px; }
   .btn.main { border-color: var(--amber); }
   .btn .go { color: var(--amber); font-weight: 700; }
+  main .btn.main {
+    padding: 22px 24px; font-size: 20px; font-weight: 700;
+    background: linear-gradient(135deg, #ffb23f, var(--amber)); color: #0d1117;
+    border-color: #ffc86b; border-radius: 16px;
+    box-shadow: 0 0 0 3px rgba(239,159,39,.25), 0 8px 24px rgba(239,159,39,.35);
+  }
+  main .btn.main small { color: #3a2a08; font-size: 15px; font-weight: 500; }
+  main .btn.main .go { color: #0d1117; font-size: 28px; }
+  main .btn.main:hover, main .btn.main:focus-visible {
+    transform: translateY(-2px) scale(1.01); box-shadow: 0 0 0 4px rgba(239,159,39,.4), 0 12px 32px rgba(239,159,39,.5);
+  }
   .cols { display: grid; gap: 10px; }
   @media (min-width: 640px) { .cols { grid-template-columns: repeat(3, 1fr); } }
   .col { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 16px 18px; }
