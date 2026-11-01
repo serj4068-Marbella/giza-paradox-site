@@ -1,0 +1,129 @@
+{
+ "slug": "antarktida",
+ "id": "01-antarktida-proverit-sam",
+ "slides": 7,
+ "credit": "NASA, Landsat",
+ "ru": {
+  "title": "Антарктида: проверь сам",
+  "lead": "Горы с ровными гранями на спутниковых снимках. Проверка за 2 минуты.",
+  "hook": "Это не пирамиды?",
+  "steps": [
+   {
+    "tag": "версия учёных",
+    "title": "«Природа. Ледник так обточил»",
+    "text": "Отчасти они правы: ледники и ветер правда образуют пирамидальные пики. Вопрос в другом: почему грани такие ровные? Проверим сами."
+   },
+   {
+    "tag": "шаг 1",
+    "title": "Найди вершину",
+    "text": "Открой Google Earth (веб) или Sentinel Hub EO Browser. Введи район или координаты."
+   },
+   {
+    "tag": "шаг 2",
+    "title": "Обойди её в 3D",
+    "text": "Посмотри сверху и под углом, со всех сторон. Одна «идеальная» грань на одном ракурсе ничего не доказывает."
+   },
+   {
+    "tag": "шаг 3",
+    "title": "Сравни с соседями",
+    "text": "Если рядом много похожих форм, это обычная работа ледника и ветра. Уникальная форма среди хаоса — повод копать дальше."
+   },
+   {
+    "tag": "шаг 4",
+    "title": "Измерь грани",
+    "text": "Линейка в Google Earth даёт длину граней и основание. Запиши числа: одинаковы ли они у разных граней?"
+   },
+   {
+    "tag": "шаг 5",
+    "title": "Проверь снимок",
+    "text": "Сравни несколько дат и разные источники. Артефакты съёмки и сжатия дают «слишком ровные» линии."
+   }
+  ],
+  "article": [
+   "Горы Антарктиды с ровными гранями. Официальный ответ есть, но проверить его можно самому.",
+   "В карусели 5 шагов: от Google Earth до сравнения снимков за разные даты. Сохрани, чтобы не потерять."
+  ]
+ },
+ "en": {
+  "title": "Antarctica: check it yourself",
+  "lead": "Mountains with flat, straight faces on satellite images. A 2-minute check.",
+  "hook": "Not pyramids?",
+  "steps": [
+   {
+    "tag": "scientists' view",
+    "title": "“Nature. A glacier carved it”",
+    "text": "They are partly right: glaciers and wind do shape pyramid-like peaks. The question is different: why are the faces so even? Let's check it ourselves."
+   },
+   {
+    "tag": "step 1",
+    "title": "Find the peak",
+    "text": "Open Google Earth (web) or Sentinel Hub EO Browser. Enter an area or coordinates."
+   },
+   {
+    "tag": "step 2",
+    "title": "Walk around it in 3D",
+    "text": "Look from above and at an angle, from every side. One “perfect” face from a single viewpoint proves nothing."
+   },
+   {
+    "tag": "step 3",
+    "title": "Compare with its neighbours",
+    "text": "If there are many similar shapes nearby, that is ordinary glacier and wind work. A unique shape among chaos is a reason to dig deeper."
+   },
+   {
+    "tag": "step 4",
+    "title": "Measure the faces",
+    "text": "The ruler in Google Earth gives the length of the faces and the base. Write down the numbers: are they the same on different faces?"
+   },
+   {
+    "tag": "step 5",
+    "title": "Check the image",
+    "text": "Compare several dates and different sources. Imaging and compression artefacts produce “too straight” lines."
+   }
+  ],
+  "article": [
+   "Antarctic mountains with flat, straight faces. There is an official answer, but you can check it yourself.",
+   "The carousel has 5 steps: from Google Earth to comparing images from different dates. Save it so you don't lose it."
+  ]
+ },
+ "es": {
+  "title": "Antártida: compruébalo tú mismo",
+  "lead": "Montañas con caras rectas en imágenes de satélite. Comprobación en 2 minutos.",
+  "hook": "¿No son pirámides?",
+  "steps": [
+   {
+    "tag": "versión científica",
+    "title": "«Naturaleza. Lo talló el glaciar»",
+    "text": "En parte tienen razón: glaciares y viento sí forman picos piramidales. La pregunta es otra: ¿por qué las caras son tan lisas? Vamos a comprobarlo."
+   },
+   {
+    "tag": "paso 1",
+    "title": "Encuentra la cima",
+    "text": "Abre Google Earth (web) o Sentinel Hub EO Browser. Escribe una zona o unas coordenadas."
+   },
+   {
+    "tag": "paso 2",
+    "title": "Rodéala en 3D",
+    "text": "Mírala desde arriba y en ángulo, por todos los lados. Una cara «perfecta» desde un solo ángulo no demuestra nada."
+   },
+   {
+    "tag": "paso 3",
+    "title": "Compárala con las vecinas",
+    "text": "Si cerca hay muchas formas parecidas, es el trabajo normal del glaciar y el viento. Una forma única entre el caos es motivo para investigar más."
+   },
+   {
+    "tag": "paso 4",
+    "title": "Mide las caras",
+    "text": "La regla de Google Earth da la longitud de las caras y de la base. Anota los números: ¿son iguales en caras distintas?"
+   },
+   {
+    "tag": "paso 5",
+    "title": "Revisa la imagen",
+    "text": "Compara varias fechas y fuentes distintas. Los artefactos de captura y compresión crean líneas «demasiado rectas»."
+   }
+  ],
+  "article": [
+   "Montañas de la Antártida con caras rectas y lisas. Hay una respuesta oficial, pero puedes comprobarla tú mismo.",
+   "El carrusel tiene 5 pasos: de Google Earth a comparar imágenes de distintas fechas. Guárdalo para no perderlo."
+  ]
+ }
+}

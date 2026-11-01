@@ -10,6 +10,7 @@ const LINKS = {
   fb: 'https://www.facebook.com/groups/2659911541126314',
   fbp: 'https://www.facebook.com/profile.php?id=61590531682788',
 };
+const PAGES = { '01': 'antarktida' };
 const COVERS = ['01', '02', '04', '10', '11', '14'];
 
 const T = {
@@ -99,7 +100,7 @@ function hero(L) {
 }
 
 function body(L) {
-  const thumbs = COVERS.map((c, i) => `<li><a href="${TG[L.k]}" target="_blank" rel="noopener"><img src="img/carousels/${L.k}-${c}.jpg" width="540" height="675" loading="lazy" alt="${L.covers[i]}"><span>${L.covers[i]}</span></a></li>`).join('\n          ');
+  const thumbs = COVERS.map((c, i) => `<li><a href="${PAGES[c] ? `carousel/${PAGES[c]}/#${L.k}` : TG[L.k]}"${PAGES[c] ? "" : " target=\"_blank\" rel=\"noopener\""}><img src="img/carousels/${L.k}-${c}.jpg" width="540" height="675" loading="lazy" alt="${L.covers[i]}"><span>${L.covers[i]}</span></a></li>`).join('\n          ');
   return `<div class="content" data-lang="${L.k}">
     <section class="block" aria-labelledby="h-${L.k}-1">
       <h2 id="h-${L.k}-1"><i>01</i>${L.s1}</h2>
