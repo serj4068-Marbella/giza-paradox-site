@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Giza Paradox | Проверь сам</title>
+<meta name="description" content="Загадки древности без мистики и без занудства. Каждый день карусель: что известно точно, что спорно и как проверить самому.">
+<meta property="og:title" content="Giza Paradox | Проверь сам">
+<meta property="og:description" content="Что известно точно, что спорно и как проверить самому.">
+<meta property="og:image" content="img/giza-ru.jpg">
+<link rel="icon" href="img/giza-ru.jpg">
+<style>
+  :root {
+    --bg: #0d1117;
+    --card: #161b22;
+    --line: #262d36;
+    --fg: #e6edf3;
+    --muted: #9aa7b4;
+    --amber: #ef9f27;
+    --cyan: #35d0ff;
+  }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font: 17px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 24px max(16px, env(safe-area-inset-left)) 64px; }
+  .lang { display: flex; gap: 8px; justify-content: flex-end; }
+  .lang button {
+    background: var(--card); color: var(--muted); border: 1px solid var(--line);
+    border-radius: 999px; padding: 6px 14px; font: inherit; font-size: 14px; cursor: pointer;
+  }
+  .lang button[aria-pressed="true"] { color: #0d1117; background: var(--amber); border-color: var(--amber); font-weight: 600; }
+  header { text-align: center; padding: 28px 0 8px; }
+  header img { width: 132px; height: 132px; border-radius: 50%; border: 3px solid var(--amber); }
+  h1 { font-size: clamp(30px, 7vw, 44px); line-height: 1.15; margin: 18px 0 6px; text-wrap: balance; }
+  h1 span { color: var(--amber); }
+  .tag { color: var(--muted); margin: 0 auto; max-width: 34em; text-wrap: balance; }
+  h2 { font-size: 13px; letter-spacing: .14em; text-transform: uppercase; color: var(--cyan); margin: 40px 0 12px; }
+  .buttons { display: grid; gap: 10px; }
+  .btn {
+    display: flex; justify-content: space-between; align-items: center; gap: 12px;
+    padding: 14px 18px; background: var(--card); border: 1px solid var(--line); border-radius: 14px;
+    color: var(--fg); text-decoration: none; transition: border-color .15s, transform .15s;
+  }
+  .btn:hover, .btn:focus-visible { border-color: var(--amber); transform: translateY(-1px); outline: none; }
+  .btn small { display: block; color: var(--muted); font-size: 14px; }
+  .btn.main { border-color: var(--amber); }
+  .btn .go { color: var(--amber); font-weight: 700; }
+  .cols { display: grid; gap: 10px; }
+  @media (min-width: 640px) { .cols { grid-template-columns: repeat(3, 1fr); } }
+  .col { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 16px 18px; }
+  .col b { color: var(--amber); display: block; margin-bottom: 4px; }
+  .col p { margin: 0; color: var(--muted); font-size: 15px; }
+  .about { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 18px 20px; }
+  .about p { margin: 0 0 10px; }
+  .about p:last-child { margin: 0; }
+  footer { margin-top: 48px; color: var(--muted); font-size: 14px; text-align: center; }
+  [hidden] { display: none !important; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="lang" role="group" aria-label="Language">
+    <button data-l="ru" aria-pressed="true">RU</button>
+    <button data-l="en" aria-pressed="false">EN</button>
+    <button data-l="es" aria-pressed="false">ES</button>
+  </div>
+
+  <!-- RU -->
+  <main data-lang="ru">
+    <header>
+      <img src="img/giza-ru.jpg" alt="Giza Paradox: лупа над пирамидой" width="132" height="132">
+      <h1>Giza Paradox<br><span>Проверь сам</span></h1>
+      <p class="tag">Загадки древности без мистики и без занудства. Каждый день в 19:00 карусель: что известно точно, что спорно и как проверить самому.</p>
+    </header>
+
+    <h2>Читать в Telegram</h2>
+    <div class="buttons">
+      <a class="btn main" href="https://t.me/giza_paradox_ru" target="_blank" rel="noopener"><span>Giza Paradox | Проверь сам<small>Канал на русском</small></span><span class="go">→</span></a>
+      <a class="btn" href="https://t.me/giza_paradox_en" target="_blank" rel="noopener"><span>Check It Yourself<small>English channel</small></span><span class="go">→</span></a>
+      <a class="btn" href="https://t.me/giza_paradox_es" target="_blank" rel="noopener"><span>Compruébalo tú<small>Canal en español</small></span><span class="go">→</span></a>
+    </div>
+
+    <h2>Как это устроено</h2>
+    <div class="cols">
+      <div class="col"><b>Что известно</b><p>Факты, которые подтверждены открытыми источниками.</p></div>
+      <div class="col"><b>Что спорно</b><p>Версии и гипотезы: отделяю их от фактов.</p></div>
+      <div class="col"><b>Как проверить</b><p>Открытые снимки и данные, чтобы вы убедились сами.</p></div>
+    </div>
+
+    <h2>Об авторе</h2>
+    <div class="about">
+      <p>Я Сергей. Мне 58, а вайбкодинг я начал в 57. Решил, что динозавры тоже умеют в нейросети, и подружился с ИИ.</p>
+      <p>Теперь мы вместе копаемся в пирамидах, а я проверяю за ними факты. Учусь, не сдаюсь, пока ни разу не обиделся на робота.</p>
+    </div>
+
+    <h2>Ещё я здесь</h2>
+    <div class="buttons">
+      <a class="btn" href="https://www.youtube.com/@Archeotech_ru" target="_blank" rel="noopener"><span>YouTube Archeotech</span><span class="go">→</span></a>
+      <a class="btn" href="https://www.instagram.com/giza.paradox/" target="_blank" rel="noopener"><span>Instagram giza.paradox</span><span class="go">→</span></a>
+      <a class="btn" href="https://www.facebook.com/groups/2659911541126314" target="_blank" rel="noopener"><span>Группа на Facebook</span><span class="go">→</span></a>
+    </div>
+  </main>
+
+  <!-- EN -->
+  <main data-lang="en" hidden>
+    <header>
+      <img src="img/giza-en.jpg" alt="Giza Paradox: a magnifier over a pyramid" width="132" height="132">
+      <h1>Giza Paradox<br><span>Check It Yourself</span></h1>
+      <p class="tag">Ancient mysteries without the mysticism and without the boredom. Every day at 19:00 a carousel: what is known, what is disputed, and how to check it yourself.</p>
+    </header>
+
+    <h2>Read on Telegram</h2>
+    <div class="buttons">
+      <a class="btn main" href="https://t.me/giza_paradox_en" target="_blank" rel="noopener"><span>Giza Paradox | Check It Yourself<small>English channel</small></span><span class="go">→</span></a>
+      <a class="btn" href="https://t.me/giza_paradox_ru" target="_blank" rel="noopener"><span>Проверь сам<small>Канал на русском</small></span><span class="go">→</span></a>
+      <a class="btn" href="https://t.me/giza_paradox_es" target="_blank" rel="noopener"><span>Compruébalo tú<small>Canal en español</small></span><span class="go">→</span></a>
+    </div>
+
+    <h2>How it works</h2>
+    <div class="cols">
+      <div class="col"><b>What is known</b><p>Facts confirmed by open sources.</p></div>
+      <div class="col"><b>What is disputed</b><p>Theories and hypotheses, kept apart from facts.</p></div>
+      <div class="col"><b>How to check</b><p>Open images and data, so you can see for yourself.</p></div>
+    </div>
+
+    <h2>About the author</h2>
+    <div class="about">
+      <p>I'm Sergey. I'm 58 and started vibe coding at 57. I decided that dinosaurs can do AI too, and made friends with the AIs.</p>
+      <p>Now we dig into pyramids together, and I fact-check what they say. I keep learning and I don't give up. So far I haven't taken offence at a robot once.</p>
+    </div>
+
+    <h2>Also find me here</h2>
+    <div class="buttons">
+      <a class="btn" href="https://www.youtube.com/@Archeotech_ru" target="_blank" rel="noopener"><span>YouTube Archeotech</span><span class="go">→</span></a>
+      <a class="btn" href="https://www.instagram.com/giza.paradox/" target="_blank" rel="noopener"><span>Instagram giza.paradox</span><span class="go">→</span></a>
+      <a class="btn" href="https://www.facebook.com/groups/2659911541126314" target="_blank" rel="noopener"><span>Facebook group</span><span class="go">→</span></a>
+    </div>
+  </main>
+
+  <!-- ES -->
+  <main data-lang="es" hidden>
+    <header>
+      <img src="img/giza-es.jpg" alt="Giza Paradox: una lupa sobre una pirámide" width="132" height="132">
+      <h1>Giza Paradox<br><span>Compruébalo tú</span></h1>
+      <p class="tag">Misterios de la antigüedad sin misticismo y sin aburrimiento. Cada día a las 19:00 un carrusel: qué se sabe, qué se discute y cómo comprobarlo tú mismo.</p>
+    </header>
+
+    <h2>Leer en Telegram</h2>
+    <div class="buttons">
+      <a class="btn main" href="https://t.me/giza_paradox_es" target="_blank" rel="noopener"><span>Giza Paradox | Compruébalo tú<small>Canal en español</small></span><span class="go">→</span></a>
+      <a class="btn" href="https://t.me/giza_paradox_en" target="_blank" rel="noopener"><span>Check It Yourself<small>English channel</small></span><span class="go">→</span></a>
+      <a class="btn" href="https://t.me/giza_paradox_ru" target="_blank" rel="noopener"><span>Проверь сам<small>Канал на русском</small></span><span class="go">→</span></a>
+    </div>
+
+    <h2>Cómo funciona</h2>
+    <div class="cols">
+      <div class="col"><b>Qué se sabe</b><p>Hechos confirmados por fuentes abiertas.</p></div>
+      <div class="col"><b>Qué se discute</b><p>Teorías e hipótesis, separadas de los hechos.</p></div>
+      <div class="col"><b>Cómo comprobarlo</b><p>Imágenes y datos abiertos para que lo veas tú mismo.</p></div>
+    </div>
+
+    <h2>Sobre el autor</h2>
+    <div class="about">
+      <p>Soy Sergey. Tengo 58 años y empecé con el vibe coding a los 57. Decidí que los dinosaurios también pueden usar IA y me hice amigo de las IA.</p>
+      <p>Ahora exploramos juntos las pirámides y yo verifico sus datos. Sigo aprendiendo y no me rindo. Hasta ahora no me he ofendido con ningún robot.</p>
+    </div>
+
+    <h2>También estoy aquí</h2>
+    <div class="buttons">
+      <a class="btn" href="https://www.youtube.com/@Archeotech_ru" target="_blank" rel="noopener"><span>YouTube Archeotech</span><span class="go">→</span></a>
+      <a class="btn" href="https://www.instagram.com/giza.paradox/" target="_blank" rel="noopener"><span>Instagram giza.paradox</span><span class="go">→</span></a>
+      <a class="btn" href="https://www.facebook.com/groups/2659911541126314" target="_blank" rel="noopener"><span>Grupo de Facebook</span><span class="go">→</span></a>
+    </div>
+  </main>
+
+  <footer>Giza Paradox · Сергей</footer>
+</div>
+
+<script>
+  (function () {
+    var titles = { ru: "Giza Paradox | Проверь сам", en: "Giza Paradox | Check It Yourself", es: "Giza Paradox | Compruébalo tú" };
+    function show(l) {
+      if (!titles[l]) l = "ru";
+      document.documentElement.lang = l;
+      document.title = titles[l];
+      document.querySelectorAll("main[data-lang]").forEach(function (m) { m.hidden = m.dataset.lang !== l; });
+      document.querySelectorAll(".lang button").forEach(function (b) { b.setAttribute("aria-pressed", String(b.dataset.l === l)); });
+      try { localStorage.setItem("lang", l); } catch (e) {}
+    }
+    document.querySelectorAll(".lang button").forEach(function (b) {
+      b.addEventListener("click", function () { show(b.dataset.l); history.replaceState(null, "", "#" + b.dataset.l); });
+    });
+    var fromHash = location.hash.slice(1);
+    var saved = ""; try { saved = localStorage.getItem("lang") || ""; } catch (e) {}
+    var nav = (navigator.language || "ru").slice(0, 2);
+    show(titles[fromHash] ? fromHash : (titles[saved] ? saved : (titles[nav] ? nav : "ru")));
+  })();
+</script>
+</body>
+</html>
