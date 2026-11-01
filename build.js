@@ -83,6 +83,7 @@ const DINO = `<svg class="dino" viewBox="0 0 240 140" role="img" aria-label="__A
   </g>
 </svg>`;
 
+const PEEK = DINO.replace('class="dino"','class="peek"').replace(/ role="img" aria-label="__ALT__"/,'').replace(/<rect[^>]*>/,'').replace(/<path d="M148 132 H216"\/>/,'');
 const arrow = '<span class="go" aria-hidden="true">→</span>';
 
 function hero(L) {
@@ -171,8 +172,8 @@ ${langs.map((L) => `<a class="skip" href="#main" data-lang="${L.k}">${L.skip}</a
 </header>
 <main id="main">
   <section class="hero">
-    <img class="hero-img" src="img/pyramid.jpg" width="2000" height="1346" alt="" fetchpriority="high">
-    <div class="lens" aria-hidden="true">${DINO.replace('class="dino"','class="lens-dino"').replace(/ role="img" aria-label="__ALT__"/,'')}</div>
+    <div class="hero-art" aria-hidden="true"><img src="img/pyramid.jpg" width="2000" height="1346" alt="" fetchpriority="high">${PEEK}</div>
+    <div class="lens" aria-hidden="true"></div>
     <div class="wrap hero-in">
     ${langs.map(hero).join('\n    ')}
     </div>
@@ -186,6 +187,13 @@ ${langs.map((L) => `<a class="skip" href="#main" data-lang="${L.k}">${L.skip}</a
 </footer>
 <script>
   (function () {
+    var art = document.querySelector(".hero-art"), hero = document.querySelector(".hero");
+    function fit() {
+      var W = hero.clientWidth, H = hero.clientHeight, k = Math.max(W / 2000, H / 1346), w = 2000 * k, h = 1346 * k, ox = W < 700 ? 0.85 : 0.6;
+      art.style.width = w + "px"; art.style.height = h + "px";
+      art.style.left = (W - w) * ox + "px"; art.style.top = (H - h) * 0.4 + "px";
+    }
+    fit(); addEventListener("resize", fit); addEventListener("load", fit); if (window.ResizeObserver) new ResizeObserver(fit).observe(hero);
     var titles = ${JSON.stringify(Object.fromEntries(langs.map((L) => [L.k, L.title])))};
     function show(l) {
       if (!titles[l]) l = "ru";
