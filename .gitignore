@@ -1,0 +1,12 @@
+# Секреты и ключи: никогда не отправлять в GitHub
+.env
+.env.*
+*.pem
+*.key
+
+# Служебные папки
+.vercel/
+node_modules/
+.claude/
+.DS_Store
+Thumbs.db
