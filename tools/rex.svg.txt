@@ -1,13 +1,13 @@
 <svg class="peek" viewBox="0 0 300 420" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
   <defs>
-    <linearGradient id="rx" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5a4e38"/><stop offset=".5" stop-color="#2e271b"/><stop offset="1" stop-color="#0f0d09"/></linearGradient>
-    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f0cf8a" stop-opacity=".95"/><stop offset="1" stop-color="#f0cf8a" stop-opacity=".15"/></linearGradient>
-    <pattern id="sc" width="8" height="7" patternUnits="userSpaceOnUse"><path d="M0 3.5 Q4 0 8 3.5" fill="none" stroke="#000" stroke-opacity=".3" stroke-width="1"/></pattern>
+    <linearGradient id="rx" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b09c6c"/><stop offset=".5" stop-color="#7d6c48"/><stop offset="1" stop-color="#4a4030"/></linearGradient>
+    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f0cf8a" stop-opacity=".95"/><stop offset="1" stop-color="#f0cf8a" stop-opacity=".6"/></linearGradient>
+    <pattern id="sc" width="8" height="7" patternUnits="userSpaceOnUse"><path d="M0 3.5 Q4 0 8 3.5" fill="none" stroke="#000" stroke-opacity=".22" stroke-width="1"/></pattern>
   </defs>
   <g>
     <path id="rexbody" fill="url(#rx)" d="M24 120 C24 106 34 98 50 94 C64 90 78 82 92 70 C100 60 108 54 120 54 C128 46 144 42 160 44 C184 46 202 60 214 82 C232 102 246 140 262 240 L290 420 L120 420 L136 240 C150 218 150 196 142 182 C120 186 92 180 68 166 C48 156 32 144 26 134 C24 130 24 125 24 120 Z"/>
     <path fill="url(#sc)" d="M24 120 C24 106 34 98 50 94 C64 90 78 82 92 70 C100 60 108 54 120 54 C128 46 144 42 160 44 C184 46 202 60 214 82 C232 102 246 140 262 240 L290 420 L120 420 L136 240 C150 218 150 196 142 182 C120 186 92 180 68 166 C48 156 32 144 26 134 C24 130 24 125 24 120 Z"/>
-    <path fill="none" stroke="url(#rim)" stroke-width="2.4" stroke-linecap="round" d="M25 116 C26 104 36 98 50 94 C64 90 78 82 92 70 C100 60 108 54 120 54 C128 46 144 42 160 44 C184 46 202 60 214 82 C228 98 240 126 252 180"/>
+    <path fill="none" stroke="url(#rim)" stroke-width="3" stroke-linecap="round" d="M25 116 C26 104 36 98 50 94 C64 90 78 82 92 70 C100 60 108 54 120 54 C128 46 144 42 160 44 C184 46 202 60 214 82 C228 98 240 126 252 180"/>
     <path fill="#0b0906" d="M30 132 C60 142 100 152 142 156 L142 164 C98 164 56 152 32 140 Z"/>
     <g fill="#efe6cf" stroke="#9c9276" stroke-width=".6">
       <path d="M40 132 l4 16 l5 -14z M58 138 l4 18 l5 -16z M78 143 l4 15 l5 -13z M100 148 l3 12 l5 -10z M122 152 l3 10 l4 -8z"/>
